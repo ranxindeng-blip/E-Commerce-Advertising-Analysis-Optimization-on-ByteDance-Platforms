@@ -1,0 +1,1001 @@
+user_id,path,conversion_value
+user_0,Toutiao_Brand Ad > Toutiao_In-feed Ad > Toutiao_Splash Ad,162.39780813448107
+user_1,Douyin_In-feed Ad > Toutiao_Video Ad > Toutiao_In-feed Ad,487.96394086479773
+user_2,Xigua_Splash Ad > Douyin_In-feed Ad > Toutiao_Splash Ad > Toutiao_Video Ad,109.2249700165663
+user_3,Toutiao_Splash Ad > Douyin_Video Ad > Douyin_Splash Ad,136.24257381312833
+user_4,Douyin_Brand Ad > Xigua_In-feed Ad,118.58016508799909
+user_5,Toutiao_In-feed Ad > Douyin_Video Ad > Xigua_Splash Ad,423.35893924658444
+user_6,Douyin_Splash Ad,373.69321060486277
+user_7,Toutiao_Video Ad > Douyin_Brand Ad > Douyin_In-feed Ad,203.51199264000678
+user_8,Toutiao_Splash Ad > Toutiao_Splash Ad > Toutiao_In-feed Ad > Xigua_Splash Ad,279.9016533479063
+user_9,Xigua_Splash Ad > Toutiao_Brand Ad,135.3970008207678
+user_10,Toutiao_Splash Ad > Douyin_Video Ad > Toutiao_Brand Ad,431.4950036607717
+user_11,Xigua_Video Ad > Toutiao_In-feed Ad,218.50940228163296
+user_12,Douyin_Brand Ad,269.3605922825478
+user_13,Douyin_Video Ad,105.63192908603378
+user_14,Toutiao_Brand Ad > Toutiao_Brand Ad > Douyin_Brand Ad,360.4308102007778
+user_15,Xigua_Video Ad > Douyin_In-feed Ad > Douyin_Brand Ad > Toutiao_In-feed Ad,391.84247133522564
+user_16,Douyin_Brand Ad > Douyin_In-feed Ad > Xigua_Brand Ad > Toutiao_Splash Ad,194.3939678995823
+user_17,Douyin_In-feed Ad > Toutiao_Splash Ad,110.16765069763808
+user_18,Douyin_Video Ad,354.56416450551217
+user_19,Toutiao_Video Ad > Xigua_Brand Ad > Toutiao_Brand Ad > Toutiao_Video Ad,477.1414282231924
+user_20,Douyin_Splash Ad > Xigua_Splash Ad > Xigua_In-feed Ad,142.19770393210825
+user_21,Xigua_Video Ad > Douyin_Splash Ad > Toutiao_Splash Ad > Douyin_In-feed Ad,227.20138998874555
+user_22,Douyin_Brand Ad,270.8431154505025
+user_23,Douyin_Brand Ad > Douyin_Video Ad > Toutiao_Splash Ad > Douyin_Brand Ad,207.7649335194086
+user_24,Xigua_Splash Ad > Douyin_Video Ad > Toutiao_In-feed Ad > Douyin_Splash Ad,484.9789179768445
+user_25,Toutiao_Brand Ad > Douyin_In-feed Ad,499.0961940195767
+user_26,Toutiao_Splash Ad > Douyin_Brand Ad > Douyin_In-feed Ad,353.7405378805455
+user_27,Douyin_Video Ad > Douyin_Splash Ad,196.82210860460017
+user_28,Douyin_Video Ad > Douyin_Brand Ad > Xigua_In-feed Ad > Toutiao_Splash Ad,259.5297769778212
+user_29,Douyin_In-feed Ad > Douyin_Brand Ad > Douyin_In-feed Ad,443.34352192548795
+user_30,Toutiao_Brand Ad > Toutiao_Brand Ad > Douyin_Video Ad > Douyin_In-feed Ad,376.37509524098635
+user_31,Toutiao_Video Ad > Douyin_Video Ad > Toutiao_Splash Ad > Xigua_Splash Ad,378.3137597380329
+user_32,Toutiao_Splash Ad > Xigua_Video Ad > Toutiao_Splash Ad,498.50147990316975
+user_33,Xigua_In-feed Ad > Xigua_Brand Ad,235.61191641948028
+user_34,Toutiao_Video Ad > Xigua_Video Ad > Douyin_In-feed Ad,356.8126584617151
+user_35,Xigua_Video Ad > Xigua_Video Ad > Toutiao_Video Ad,140.58861714641284
+user_36,Xigua_Splash Ad > Douyin_Splash Ad > Douyin_Brand Ad,360.7845038010402
+user_37,Douyin_Video Ad,194.89963499872002
+user_38,Douyin_Video Ad,359.85315961888585
+user_39,Toutiao_Video Ad > Toutiao_Video Ad > Toutiao_Splash Ad,206.08094707269018
+user_40,Toutiao_Splash Ad > Douyin_Splash Ad,462.4395150874216
+user_41,Toutiao_Splash Ad > Toutiao_Brand Ad > Douyin_In-feed Ad,192.07410729662212
+user_42,Douyin_Brand Ad > Toutiao_Video Ad > Douyin_Video Ad > Douyin_Splash Ad,465.9457560881794
+user_43,Toutiao_In-feed Ad > Xigua_In-feed Ad > Toutiao_Brand Ad,485.44799083570115
+user_44,Douyin_In-feed Ad,254.0390914407701
+user_45,Douyin_Brand Ad > Douyin_In-feed Ad > Douyin_Splash Ad,378.4119186699892
+user_46,Douyin_Splash Ad > Toutiao_Splash Ad > Douyin_Brand Ad > Toutiao_Splash Ad,229.02030569544021
+user_47,Toutiao_Brand Ad > Toutiao_Brand Ad > Douyin_Brand Ad > Douyin_Splash Ad,446.8289274320415
+user_48,Douyin_Brand Ad,300.60651787487984
+user_49,Douyin_Video Ad,380.7867509030813
+user_50,Douyin_Brand Ad > Douyin_Video Ad > Toutiao_Video Ad > Toutiao_Splash Ad,231.26106698989278
+user_51,Toutiao_In-feed Ad > Xigua_Splash Ad,112.20009997561976
+user_52,Douyin_Brand Ad > Douyin_Video Ad > Douyin_Video Ad > Toutiao_Video Ad,486.1007321563079
+user_53,Douyin_In-feed Ad > Douyin_Splash Ad > Toutiao_Brand Ad,155.34123696712055
+user_54,Xigua_Video Ad > Toutiao_Brand Ad > Toutiao_Brand Ad > Douyin_Splash Ad,131.3825525369064
+user_55,Douyin_Splash Ad,434.3920482048823
+user_56,Toutiao_In-feed Ad,169.3177280283383
+user_57,Douyin_Video Ad,319.6906658824482
+user_58,Douyin_In-feed Ad > Douyin_Video Ad > Toutiao_Video Ad > Toutiao_Splash Ad,392.0157266247274
+user_59,Douyin_Video Ad > Douyin_Splash Ad > Douyin_Splash Ad,136.71962632537677
+user_60,Douyin_Splash Ad > Xigua_In-feed Ad > Douyin_Splash Ad,405.3457692015644
+user_61,Douyin_In-feed Ad,285.86952517584456
+user_62,Douyin_Splash Ad,479.6582926365544
+user_63,Douyin_Brand Ad > Douyin_Brand Ad > Toutiao_In-feed Ad > Toutiao_In-feed Ad,165.17377083257188
+user_64,Xigua_Splash Ad > Douyin_Video Ad > Toutiao_Video Ad > Toutiao_Splash Ad,329.34681666877333
+user_65,Douyin_Brand Ad,428.25579029758217
+user_66,Douyin_In-feed Ad > Toutiao_Brand Ad > Douyin_In-feed Ad > Douyin_Splash Ad,107.28873026061989
+user_67,Toutiao_Brand Ad > Douyin_Video Ad > Douyin_Splash Ad,109.30877429433035
+user_68,Douyin_Brand Ad > Douyin_In-feed Ad,239.33464178127895
+user_69,Xigua_Video Ad > Douyin_In-feed Ad > Douyin_Splash Ad,269.3883769232474
+user_70,Xigua_In-feed Ad > Toutiao_Video Ad > Douyin_Brand Ad > Toutiao_Brand Ad,472.3029302414259
+user_71,Douyin_Brand Ad,400.34842711659894
+user_72,Douyin_Splash Ad,461.0211626718267
+user_73,Douyin_In-feed Ad > Douyin_Brand Ad,139.99395486474535
+user_74,Douyin_In-feed Ad > Xigua_In-feed Ad > Douyin_Splash Ad > Toutiao_Video Ad,329.37515524931445
+user_75,Douyin_In-feed Ad > Douyin_In-feed Ad > Toutiao_In-feed Ad,400.949811775072
+user_76,Toutiao_Brand Ad > Douyin_Splash Ad > Xigua_Splash Ad,319.8115529294942
+user_77,Toutiao_In-feed Ad,240.36600502083147
+user_78,Xigua_In-feed Ad > Toutiao_Video Ad,446.74748212433656
+user_79,Douyin_In-feed Ad > Douyin_In-feed Ad,428.74402371614246
+user_80,Douyin_In-feed Ad > Douyin_Brand Ad,332.5221668907129
+user_81,Douyin_Video Ad,194.6740774728315
+user_82,Xigua_Video Ad > Douyin_Video Ad > Douyin_In-feed Ad,251.19503604890178
+user_83,Douyin_Splash Ad > Douyin_Splash Ad > Douyin_In-feed Ad,262.08083471256685
+user_84,Douyin_Video Ad > Toutiao_Brand Ad,359.6841208464254
+user_85,Toutiao_Video Ad,484.86901938981674
+user_86,Douyin_In-feed Ad > Xigua_Splash Ad > Douyin_Splash Ad,104.86178987592653
+user_87,Toutiao_Brand Ad > Xigua_Splash Ad > Xigua_Video Ad > Douyin_Brand Ad,378.16444924265903
+user_88,Toutiao_In-feed Ad,186.7236426345965
+user_89,Douyin_In-feed Ad > Toutiao_Brand Ad > Xigua_In-feed Ad,466.1017366676425
+user_90,Xigua_Video Ad > Douyin_Video Ad,348.0530391206147
+user_91,Douyin_Video Ad > Douyin_Splash Ad > Douyin_Video Ad > Douyin_In-feed Ad,203.9799451417051
+user_92,Toutiao_In-feed Ad > Douyin_In-feed Ad > Xigua_Video Ad,208.38305700605196
+user_93,Xigua_In-feed Ad,476.2127308541534
+user_94,Toutiao_Brand Ad > Xigua_Splash Ad > Xigua_Splash Ad,320.635149017628
+user_95,Douyin_In-feed Ad,411.0409134940902
+user_96,Xigua_In-feed Ad > Douyin_Splash Ad,252.3563426524086
+user_97,Xigua_In-feed Ad > Xigua_Splash Ad,114.72874705439655
+user_98,Douyin_Video Ad > Douyin_Video Ad > Xigua_Brand Ad,399.96429978798875
+user_99,Toutiao_In-feed Ad > Toutiao_Splash Ad > Xigua_In-feed Ad,196.43393293185275
+user_100,Douyin_Brand Ad,209.8927188103635
+user_101,Douyin_In-feed Ad > Toutiao_Splash Ad > Douyin_Video Ad > Douyin_Splash Ad,308.12308036151734
+user_102,Xigua_Splash Ad > Xigua_Splash Ad,487.18950617592924
+user_103,Xigua_In-feed Ad > Toutiao_Brand Ad,111.51307052533559
+user_104,Toutiao_Splash Ad > Toutiao_Brand Ad > Xigua_Video Ad,105.81786626715277
+user_105,Toutiao_Splash Ad > Douyin_Brand Ad,136.4008364205321
+user_106,Douyin_Splash Ad > Douyin_Brand Ad,258.61711292850805
+user_107,Toutiao_In-feed Ad > Xigua_Video Ad > Douyin_In-feed Ad,296.84651723181526
+user_108,Douyin_In-feed Ad > Xigua_In-feed Ad > Douyin_Splash Ad > Toutiao_Video Ad,236.625284182618
+user_109,Douyin_Brand Ad > Toutiao_Brand Ad > Douyin_Video Ad,172.02690893971942
+user_110,Douyin_Brand Ad > Xigua_Brand Ad > Toutiao_Splash Ad > Toutiao_Brand Ad,116.34744650659155
+user_111,Douyin_Splash Ad,170.8041937106987
+user_112,Toutiao_In-feed Ad,284.3115072130903
+user_113,Xigua_In-feed Ad > Toutiao_In-feed Ad,228.6331058720116
+user_114,Toutiao_In-feed Ad > Toutiao_Video Ad,449.4314496427109
+user_115,Douyin_In-feed Ad > Douyin_In-feed Ad > Douyin_Brand Ad,173.80840774255094
+user_116,Toutiao_Video Ad > Douyin_Splash Ad > Toutiao_Splash Ad,285.01388645325915
+user_117,Douyin_Brand Ad,200.9747777376083
+user_118,Toutiao_Brand Ad > Toutiao_Brand Ad > Douyin_Splash Ad,278.96494672938184
+user_119,Douyin_Video Ad > Douyin_In-feed Ad > Douyin_Brand Ad,228.8316662332713
+user_120,Douyin_Splash Ad > Douyin_In-feed Ad > Douyin_In-feed Ad,371.6409276577958
+user_121,Toutiao_Splash Ad > Douyin_Brand Ad > Toutiao_Brand Ad,398.17578967373197
+user_122,Toutiao_Splash Ad,213.5103623194898
+user_123,Xigua_Video Ad > Toutiao_Video Ad,299.29907913957607
+user_124,Toutiao_In-feed Ad > Douyin_In-feed Ad,161.1436556737328
+user_125,Douyin_Splash Ad > Douyin_Splash Ad > Xigua_Video Ad,458.70616985057006
+user_126,Douyin_Brand Ad > Douyin_Video Ad > Xigua_Splash Ad,259.1422396182966
+user_127,Xigua_Brand Ad > Xigua_In-feed Ad > Douyin_Splash Ad > Toutiao_In-feed Ad,387.38290833462145
+user_128,Toutiao_Brand Ad > Xigua_In-feed Ad > Douyin_Splash Ad,384.3809915346993
+user_129,Toutiao_In-feed Ad > Toutiao_In-feed Ad > Toutiao_Video Ad > Douyin_Splash Ad,161.74508610968093
+user_130,Douyin_Brand Ad > Douyin_Splash Ad > Douyin_In-feed Ad > Douyin_Video Ad,180.69218493209434
+user_131,Xigua_In-feed Ad > Douyin_In-feed Ad > Toutiao_Brand Ad > Douyin_Splash Ad,264.7363656589074
+user_132,Douyin_In-feed Ad > Xigua_Video Ad,263.40731717436677
+user_133,Toutiao_In-feed Ad,182.0007240212949
+user_134,Douyin_Video Ad > Toutiao_Video Ad > Xigua_Video Ad,431.17635487099676
+user_135,Douyin_Splash Ad,430.0530706771189
+user_136,Xigua_Brand Ad,353.5034254880709
+user_137,Douyin_In-feed Ad > Toutiao_Splash Ad,426.63977578863086
+user_138,Toutiao_Video Ad > Douyin_Splash Ad > Toutiao_Brand Ad,301.0881560369917
+user_139,Douyin_Brand Ad,253.55648854928455
+user_140,Douyin_Video Ad > Toutiao_Brand Ad,272.611257254577
+user_141,Toutiao_Video Ad > Toutiao_Video Ad > Toutiao_In-feed Ad,298.16945056158625
+user_142,Xigua_Video Ad > Xigua_In-feed Ad,224.68882711821928
+user_143,Toutiao_In-feed Ad,113.41297389431175
+user_144,Toutiao_In-feed Ad > Xigua_In-feed Ad,141.166412297658
+user_145,Douyin_Video Ad,282.8000877126713
+user_146,Douyin_In-feed Ad > Toutiao_In-feed Ad > Douyin_Video Ad > Toutiao_Brand Ad,356.4590531541189
+user_147,Toutiao_Splash Ad > Douyin_In-feed Ad > Xigua_Splash Ad,463.3802245334513
+user_148,Douyin_Brand Ad > Douyin_Splash Ad,345.9801052610618
+user_149,Toutiao_Splash Ad > Douyin_In-feed Ad,107.2440735283362
+user_150,Toutiao_Video Ad > Toutiao_Video Ad > Toutiao_In-feed Ad > Toutiao_Splash Ad,408.4986674078952
+user_151,Toutiao_Splash Ad > Douyin_Splash Ad > Xigua_Splash Ad,464.2744793022852
+user_152,Douyin_In-feed Ad,166.2082041469159
+user_153,Douyin_In-feed Ad > Douyin_Splash Ad > Toutiao_Video Ad > Toutiao_Brand Ad,121.90465552881253
+user_154,Douyin_In-feed Ad,101.85280920184114
+user_155,Douyin_Video Ad,314.9582411751692
+user_156,Xigua_Brand Ad > Douyin_Splash Ad > Xigua_Video Ad,189.8419291759928
+user_157,Xigua_Splash Ad > Douyin_Brand Ad > Douyin_In-feed Ad > Xigua_In-feed Ad,412.19828301843506
+user_158,Toutiao_Video Ad > Douyin_In-feed Ad > Douyin_Video Ad,283.5955952068052
+user_159,Douyin_Video Ad > Toutiao_Video Ad > Toutiao_In-feed Ad > Douyin_Splash Ad,399.98418815967113
+user_160,Toutiao_Splash Ad > Douyin_In-feed Ad > Toutiao_In-feed Ad,288.8267780439997
+user_161,Toutiao_In-feed Ad > Toutiao_Brand Ad > Toutiao_Splash Ad > Douyin_Splash Ad,298.8047795284996
+user_162,Douyin_In-feed Ad > Douyin_Brand Ad > Xigua_Video Ad,208.92074188811978
+user_163,Toutiao_Video Ad > Xigua_Brand Ad > Douyin_Splash Ad,446.7975040046094
+user_164,Douyin_Brand Ad > Douyin_Brand Ad > Toutiao_In-feed Ad > Toutiao_In-feed Ad,419.96643414927576
+user_165,Xigua_Video Ad > Douyin_Splash Ad > Xigua_Video Ad,388.9067727422637
+user_166,Xigua_Video Ad > Douyin_In-feed Ad > Douyin_Splash Ad > Douyin_Video Ad,134.77000598013973
+user_167,Douyin_Brand Ad > Xigua_Video Ad,172.57417403591893
+user_168,Toutiao_Splash Ad > Xigua_Brand Ad > Toutiao_Brand Ad > Douyin_Splash Ad,245.2236848780362
+user_169,Douyin_In-feed Ad > Douyin_Video Ad > Toutiao_Splash Ad,444.42720798988864
+user_170,Xigua_Splash Ad > Toutiao_In-feed Ad > Xigua_Video Ad,494.14692489669386
+user_171,Toutiao_In-feed Ad > Douyin_In-feed Ad > Douyin_Video Ad,379.53834126436175
+user_172,Douyin_Splash Ad,358.0216671077318
+user_173,Xigua_Splash Ad > Xigua_Splash Ad,208.9229306077476
+user_174,Xigua_Video Ad > Douyin_Video Ad > Douyin_Splash Ad,321.67120100631735
+user_175,Douyin_Video Ad,182.56850870424128
+user_176,Douyin_Brand Ad > Xigua_Splash Ad,392.873831383625
+user_177,Toutiao_In-feed Ad > Douyin_Splash Ad,465.7647783699839
+user_178,Douyin_Splash Ad > Toutiao_Video Ad,241.54855062449977
+user_179,Toutiao_Brand Ad > Douyin_Brand Ad,198.13964387252838
+user_180,Xigua_Brand Ad,242.26908658597966
+user_181,Toutiao_Video Ad,326.5618561187589
+user_182,Douyin_Video Ad > Xigua_In-feed Ad,293.5019767729651
+user_183,Douyin_Video Ad > Douyin_Video Ad,120.57032539370014
+user_184,Xigua_Brand Ad > Douyin_Splash Ad,289.69492348014785
+user_185,Douyin_In-feed Ad,265.1174202427009
+user_186,Toutiao_Splash Ad,283.8726051044524
+user_187,Xigua_In-feed Ad > Douyin_Brand Ad > Douyin_Splash Ad,141.23749840549794
+user_188,Douyin_Brand Ad,484.83951430564707
+user_189,Xigua_Brand Ad,308.52026696542777
+user_190,Toutiao_Video Ad > Toutiao_Brand Ad > Xigua_Brand Ad > Toutiao_Video Ad,439.6782606261277
+user_191,Xigua_Video Ad,188.4837767278409
+user_192,Douyin_Splash Ad > Douyin_Splash Ad,335.30550278797244
+user_193,Douyin_In-feed Ad,289.28404723253334
+user_194,Douyin_In-feed Ad > Toutiao_Brand Ad > Xigua_Splash Ad,268.70506389220503
+user_195,Douyin_Splash Ad,121.95304585858997
+user_196,Douyin_Splash Ad > Toutiao_Splash Ad > Toutiao_Brand Ad,324.27087760140563
+user_197,Douyin_In-feed Ad,312.10605305396007
+user_198,Toutiao_Video Ad > Toutiao_Video Ad,315.7965169501349
+user_199,Toutiao_In-feed Ad,350.35655057480363
+user_200,Douyin_Video Ad > Douyin_Brand Ad > Douyin_Splash Ad > Douyin_Brand Ad,174.18916383068898
+user_201,Xigua_Brand Ad > Douyin_Splash Ad,240.28472618068406
+user_202,Douyin_Splash Ad > Douyin_In-feed Ad,332.3028828909311
+user_203,Xigua_Splash Ad > Douyin_Brand Ad > Douyin_In-feed Ad > Toutiao_In-feed Ad,144.18964525255785
+user_204,Douyin_Splash Ad > Douyin_Splash Ad,335.6434137883579
+user_205,Douyin_Splash Ad > Douyin_Brand Ad > Douyin_Video Ad > Douyin_Brand Ad,479.98447358009014
+user_206,Douyin_Video Ad,267.0323103139713
+user_207,Xigua_Video Ad > Douyin_In-feed Ad > Xigua_Brand Ad > Xigua_Brand Ad,260.63209457019497
+user_208,Toutiao_In-feed Ad,432.25700710024984
+user_209,Douyin_Splash Ad > Douyin_In-feed Ad,174.5753048577018
+user_210,Xigua_In-feed Ad > Douyin_Brand Ad > Douyin_In-feed Ad,471.10091327808516
+user_211,Toutiao_Brand Ad > Douyin_Splash Ad,296.4745363474506
+user_212,Douyin_Video Ad,285.35229928624796
+user_213,Douyin_Brand Ad,113.94606409352997
+user_214,Toutiao_Splash Ad > Douyin_Video Ad > Douyin_Video Ad > Douyin_Brand Ad,482.26059929190137
+user_215,Douyin_Brand Ad > Toutiao_In-feed Ad > Toutiao_Splash Ad > Douyin_Brand Ad,102.03285592721039
+user_216,Toutiao_Splash Ad > Toutiao_In-feed Ad > Douyin_In-feed Ad,457.79197238722696
+user_217,Xigua_Video Ad,453.1625076549845
+user_218,Toutiao_Splash Ad > Toutiao_Video Ad,371.2064610236254
+user_219,Xigua_In-feed Ad > Xigua_Brand Ad > Xigua_Video Ad,440.23269163769675
+user_220,Douyin_In-feed Ad > Xigua_In-feed Ad > Xigua_Video Ad,347.4445512860737
+user_221,Douyin_In-feed Ad > Xigua_Splash Ad,286.1880035079934
+user_222,Xigua_Splash Ad > Xigua_In-feed Ad > Toutiao_Brand Ad,100.4480445920438
+user_223,Xigua_In-feed Ad > Douyin_Splash Ad,214.81525326996513
+user_224,Douyin_In-feed Ad > Toutiao_Brand Ad,250.67814479471951
+user_225,Toutiao_Brand Ad > Douyin_Brand Ad > Toutiao_Splash Ad > Douyin_Splash Ad,236.74886641547442
+user_226,Douyin_In-feed Ad > Douyin_Video Ad > Douyin_Video Ad > Douyin_Brand Ad,166.55103477290893
+user_227,Douyin_Splash Ad > Douyin_Splash Ad > Toutiao_Brand Ad > Xigua_Splash Ad,489.3955876709588
+user_228,Douyin_Brand Ad,152.0344960522528
+user_229,Douyin_In-feed Ad,108.8494206115989
+user_230,Douyin_Video Ad > Toutiao_Splash Ad,100.41179193825336
+user_231,Douyin_In-feed Ad > Xigua_Brand Ad,280.5548097318702
+user_232,Toutiao_In-feed Ad > Toutiao_Video Ad > Xigua_Brand Ad,372.1997208298852
+user_233,Douyin_Brand Ad > Xigua_Video Ad,112.5209254990065
+user_234,Xigua_Video Ad,442.94403683699943
+user_235,Douyin_In-feed Ad > Douyin_Brand Ad > Douyin_Video Ad > Toutiao_Splash Ad,185.24188161003332
+user_236,Xigua_Video Ad > Douyin_Brand Ad > Douyin_Brand Ad > Xigua_Splash Ad,181.4804997105097
+user_237,Toutiao_Brand Ad,281.47745384211305
+user_238,Toutiao_Brand Ad > Toutiao_Video Ad,113.01047179650077
+user_239,Xigua_Video Ad > Toutiao_In-feed Ad > Douyin_Brand Ad > Douyin_Video Ad,199.01598224135006
+user_240,Douyin_In-feed Ad,164.33018763127603
+user_241,Toutiao_In-feed Ad > Toutiao_Video Ad,224.1447835694295
+user_242,Douyin_In-feed Ad,128.97875511782354
+user_243,Douyin_Brand Ad > Toutiao_Video Ad > Toutiao_In-feed Ad > Xigua_Splash Ad,463.12746119385605
+user_244,Douyin_Video Ad > Douyin_Video Ad > Xigua_Video Ad,107.347054776216
+user_245,Toutiao_Video Ad > Douyin_Video Ad,103.90833896767346
+user_246,Douyin_In-feed Ad > Douyin_In-feed Ad > Douyin_In-feed Ad > Douyin_Splash Ad,228.83788088773414
+user_247,Toutiao_Splash Ad > Toutiao_Brand Ad,180.06009769792405
+user_248,Toutiao_Video Ad > Toutiao_Brand Ad > Xigua_In-feed Ad,474.4848984974759
+user_249,Toutiao_In-feed Ad > Toutiao_Video Ad > Xigua_Video Ad,420.6912332279167
+user_250,Toutiao_Brand Ad > Douyin_Video Ad,321.2005810367834
+user_251,Xigua_Splash Ad > Douyin_Brand Ad,310.56106437444527
+user_252,Douyin_Splash Ad > Douyin_Brand Ad,360.11767434938156
+user_253,Xigua_Splash Ad,231.6069751258649
+user_254,Douyin_Video Ad > Xigua_In-feed Ad,363.48311020035044
+user_255,Douyin_Splash Ad > Toutiao_Splash Ad > Douyin_Video Ad,489.9172648587132
+user_256,Douyin_Brand Ad > Toutiao_In-feed Ad > Douyin_Brand Ad,203.07315540448548
+user_257,Douyin_In-feed Ad > Toutiao_In-feed Ad > Xigua_In-feed Ad > Douyin_Video Ad,407.0895552267121
+user_258,Douyin_In-feed Ad > Toutiao_In-feed Ad > Douyin_In-feed Ad > Douyin_Video Ad,449.36929523266423
+user_259,Toutiao_Brand Ad > Douyin_Brand Ad,213.54181144345802
+user_260,Douyin_In-feed Ad,286.3251228080994
+user_261,Toutiao_Brand Ad,410.4000828141718
+user_262,Xigua_Brand Ad > Toutiao_Splash Ad > Xigua_Brand Ad > Douyin_Splash Ad,296.9111425792139
+user_263,Douyin_In-feed Ad > Douyin_Video Ad,331.7659597374003
+user_264,Toutiao_Splash Ad > Toutiao_In-feed Ad > Xigua_Splash Ad > Xigua_In-feed Ad,230.07602568987795
+user_265,Toutiao_Video Ad > Xigua_Brand Ad > Douyin_Splash Ad > Douyin_Splash Ad,232.35574519566876
+user_266,Douyin_Splash Ad,158.30262729790067
+user_267,Douyin_Brand Ad,479.4333419405735
+user_268,Douyin_Video Ad,251.74343596896952
+user_269,Toutiao_In-feed Ad > Toutiao_In-feed Ad > Xigua_Video Ad,278.54745860503425
+user_270,Xigua_Video Ad > Toutiao_Video Ad > Douyin_Splash Ad,149.1883234118507
+user_271,Xigua_In-feed Ad,356.0011867347655
+user_272,Douyin_In-feed Ad > Douyin_In-feed Ad > Toutiao_Splash Ad,375.28314634663815
+user_273,Xigua_Video Ad > Toutiao_Splash Ad > Xigua_Splash Ad > Xigua_Brand Ad,281.89594225354364
+user_274,Toutiao_Brand Ad > Toutiao_Video Ad > Douyin_Splash Ad,223.17197663647636
+user_275,Xigua_Video Ad > Toutiao_Splash Ad > Douyin_Brand Ad > Toutiao_Video Ad,193.82451733393145
+user_276,Douyin_Splash Ad > Toutiao_Brand Ad > Xigua_Splash Ad,107.00639634482489
+user_277,Toutiao_Video Ad > Xigua_In-feed Ad,112.15482387873475
+user_278,Toutiao_Video Ad > Toutiao_Brand Ad > Xigua_Splash Ad > Douyin_In-feed Ad,330.8740946846993
+user_279,Toutiao_Splash Ad > Toutiao_Brand Ad,490.8696736885269
+user_280,Xigua_In-feed Ad,412.9541936233094
+user_281,Douyin_Brand Ad,451.4062245205392
+user_282,Toutiao_Video Ad,367.0373542254339
+user_283,Xigua_In-feed Ad > Toutiao_Brand Ad,447.5602502162284
+user_284,Douyin_Splash Ad,359.62986351775726
+user_285,Douyin_Video Ad,343.93272219947784
+user_286,Toutiao_Video Ad > Toutiao_In-feed Ad > Douyin_In-feed Ad,277.7677811004806
+user_287,Douyin_Brand Ad > Douyin_Splash Ad,347.7961384038458
+user_288,Toutiao_In-feed Ad > Xigua_Video Ad,438.86694454902965
+user_289,Douyin_Splash Ad > Douyin_In-feed Ad > Douyin_In-feed Ad > Douyin_Video Ad,343.16203711737785
+user_290,Toutiao_Splash Ad > Toutiao_Brand Ad > Toutiao_In-feed Ad > Douyin_Brand Ad,458.68571593604895
+user_291,Xigua_In-feed Ad,361.8772325725393
+user_292,Douyin_In-feed Ad > Douyin_Brand Ad > Douyin_In-feed Ad,346.9407029651897
+user_293,Douyin_Brand Ad,471.8423509687957
+user_294,Toutiao_Video Ad > Douyin_Splash Ad > Toutiao_In-feed Ad > Xigua_Splash Ad,148.75443733477903
+user_295,Douyin_Video Ad > Douyin_In-feed Ad > Douyin_Brand Ad,142.75076923789754
+user_296,Douyin_Video Ad > Xigua_Video Ad,134.81558503506346
+user_297,Toutiao_Video Ad > Toutiao_Brand Ad,480.56133688266283
+user_298,Toutiao_In-feed Ad > Xigua_In-feed Ad > Toutiao_Brand Ad,344.3923955403967
+user_299,Douyin_Splash Ad > Xigua_Video Ad,322.6548231746869
+user_300,Toutiao_Splash Ad > Toutiao_Video Ad > Douyin_Splash Ad,423.81199030737673
+user_301,Toutiao_In-feed Ad > Douyin_In-feed Ad > Douyin_Brand Ad,447.70384986042103
+user_302,Douyin_In-feed Ad,171.37838609110884
+user_303,Toutiao_Video Ad,182.47446580737056
+user_304,Douyin_Splash Ad > Toutiao_In-feed Ad > Douyin_Splash Ad,209.81610160005016
+user_305,Toutiao_Brand Ad > Douyin_In-feed Ad > Toutiao_In-feed Ad,106.32843670623298
+user_306,Douyin_Brand Ad > Toutiao_Splash Ad > Toutiao_Brand Ad > Toutiao_Video Ad,134.2632998385722
+user_307,Toutiao_In-feed Ad,229.3486248462083
+user_308,Douyin_Brand Ad > Douyin_In-feed Ad > Xigua_Video Ad,420.14260312894464
+user_309,Toutiao_Video Ad > Xigua_Splash Ad > Toutiao_Video Ad,229.73350124615024
+user_310,Douyin_Splash Ad > Xigua_Splash Ad > Douyin_Brand Ad,392.26020409569844
+user_311,Douyin_Splash Ad > Toutiao_Video Ad,484.6662943819253
+user_312,Toutiao_In-feed Ad,168.19117526956703
+user_313,Douyin_In-feed Ad > Xigua_Video Ad,239.02860969559282
+user_314,Xigua_Brand Ad > Xigua_In-feed Ad > Douyin_Brand Ad > Douyin_In-feed Ad,394.87209000289727
+user_315,Toutiao_In-feed Ad > Toutiao_Video Ad > Toutiao_Splash Ad > Toutiao_Video Ad,151.08539345409392
+user_316,Toutiao_Video Ad > Toutiao_Splash Ad > Douyin_Brand Ad > Douyin_Splash Ad,252.3638102043949
+user_317,Xigua_In-feed Ad > Toutiao_Brand Ad,258.79260682971335
+user_318,Xigua_Splash Ad > Toutiao_Brand Ad > Toutiao_Brand Ad,496.8632059293251
+user_319,Douyin_Video Ad,472.2380858575665
+user_320,Toutiao_In-feed Ad > Douyin_Video Ad,312.99247702377045
+user_321,Xigua_Video Ad > Douyin_Splash Ad,132.36771322050086
+user_322,Douyin_Brand Ad,377.9804355609847
+user_323,Xigua_Splash Ad > Toutiao_In-feed Ad,330.06534019864995
+user_324,Xigua_Video Ad,342.54837777335024
+user_325,Toutiao_Splash Ad,431.7329620565135
+user_326,Toutiao_In-feed Ad > Xigua_In-feed Ad > Douyin_Video Ad > Douyin_Video Ad,154.06651566192912
+user_327,Douyin_Video Ad > Xigua_Video Ad > Toutiao_Brand Ad > Toutiao_Splash Ad,211.10104949970446
+user_328,Toutiao_In-feed Ad > Douyin_Splash Ad > Toutiao_Brand Ad,254.58433646365884
+user_329,Toutiao_Splash Ad,184.70214026619135
+user_330,Xigua_In-feed Ad > Toutiao_Brand Ad,493.47157010536546
+user_331,Douyin_In-feed Ad > Douyin_Splash Ad > Douyin_Brand Ad,376.8645366776528
+user_332,Toutiao_Video Ad > Xigua_In-feed Ad > Douyin_Video Ad > Douyin_Video Ad,362.28946902466254
+user_333,Douyin_Brand Ad > Toutiao_Brand Ad,279.91385952852903
+user_334,Douyin_Brand Ad,265.6519010115708
+user_335,Douyin_In-feed Ad > Toutiao_Splash Ad,199.43210308597682
+user_336,Douyin_Splash Ad > Toutiao_In-feed Ad,404.115929248854
+user_337,Douyin_In-feed Ad > Douyin_In-feed Ad,433.721346381907
+user_338,Xigua_Splash Ad,125.84667193763445
+user_339,Douyin_Brand Ad > Douyin_Brand Ad > Douyin_Video Ad > Douyin_In-feed Ad,295.29645480871125
+user_340,Xigua_Video Ad > Toutiao_Video Ad > Xigua_In-feed Ad > Douyin_Splash Ad,256.9574886113898
+user_341,Xigua_In-feed Ad > Douyin_Video Ad,226.16275829920508
+user_342,Xigua_Video Ad,201.86824881842048
+user_343,Xigua_Video Ad > Xigua_In-feed Ad,430.05287837148154
+user_344,Toutiao_Brand Ad > Douyin_In-feed Ad > Toutiao_Video Ad,280.24786269190315
+user_345,Douyin_Video Ad,495.3101084000525
+user_346,Toutiao_In-feed Ad > Douyin_Brand Ad > Toutiao_In-feed Ad,420.852223251035
+user_347,Douyin_In-feed Ad > Toutiao_Video Ad > Douyin_Splash Ad,496.6353635481096
+user_348,Toutiao_Brand Ad > Toutiao_Brand Ad > Douyin_In-feed Ad > Toutiao_Splash Ad,405.74906488869436
+user_349,Douyin_Brand Ad > Douyin_Video Ad > Xigua_Video Ad > Toutiao_In-feed Ad,490.396339839517
+user_350,Douyin_In-feed Ad > Douyin_Video Ad > Toutiao_In-feed Ad,483.9306072303716
+user_351,Douyin_Splash Ad > Douyin_Video Ad > Douyin_Video Ad,145.58265388572687
+user_352,Toutiao_Brand Ad,308.3072567336851
+user_353,Toutiao_Brand Ad > Douyin_In-feed Ad > Xigua_Brand Ad > Douyin_Video Ad,272.8307531776784
+user_354,Douyin_Splash Ad > Xigua_Splash Ad > Xigua_Video Ad > Douyin_Splash Ad,105.08595599475741
+user_355,Douyin_Video Ad,226.76899093797797
+user_356,Xigua_In-feed Ad > Toutiao_In-feed Ad > Toutiao_In-feed Ad,491.35891152023834
+user_357,Toutiao_Brand Ad > Douyin_Video Ad,170.97150778788276
+user_358,Toutiao_In-feed Ad > Xigua_In-feed Ad,391.17887069229727
+user_359,Douyin_Brand Ad > Douyin_Splash Ad,185.40454652426877
+user_360,Douyin_Video Ad > Toutiao_Brand Ad > Toutiao_In-feed Ad,303.344218766512
+user_361,Douyin_Brand Ad > Toutiao_Brand Ad > Toutiao_In-feed Ad,404.4486148172632
+user_362,Douyin_Splash Ad > Douyin_In-feed Ad > Toutiao_Brand Ad,496.72398053974536
+user_363,Douyin_Video Ad > Xigua_Brand Ad > Douyin_In-feed Ad > Toutiao_Brand Ad,345.99129613645295
+user_364,Douyin_In-feed Ad > Toutiao_Video Ad,102.09184541716509
+user_365,Xigua_Video Ad > Toutiao_Splash Ad,399.8181937875553
+user_366,Douyin_Brand Ad,402.50586315658103
+user_367,Douyin_Video Ad > Toutiao_Splash Ad > Douyin_In-feed Ad,357.3460719647137
+user_368,Xigua_Brand Ad > Douyin_Splash Ad,265.0487363394495
+user_369,Douyin_Splash Ad > Toutiao_Video Ad > Douyin_In-feed Ad > Douyin_Brand Ad,449.7049882440951
+user_370,Toutiao_Video Ad,141.65494316811498
+user_371,Toutiao_Video Ad > Douyin_Video Ad,370.5871748905449
+user_372,Toutiao_Video Ad > Xigua_In-feed Ad,354.59626041966163
+user_373,Douyin_In-feed Ad > Toutiao_Splash Ad > Toutiao_Brand Ad,430.05226706644606
+user_374,Douyin_Video Ad > Douyin_In-feed Ad > Douyin_Splash Ad,248.5688007492183
+user_375,Toutiao_Brand Ad,406.63540958865735
+user_376,Xigua_In-feed Ad,169.39202970638289
+user_377,Toutiao_Video Ad > Douyin_Brand Ad,263.9619558785153
+user_378,Toutiao_Brand Ad > Toutiao_Video Ad,181.17454702996088
+user_379,Douyin_Splash Ad > Douyin_Brand Ad > Douyin_Splash Ad > Toutiao_Splash Ad,307.23150649552616
+user_380,Toutiao_Brand Ad,203.71870354630948
+user_381,Douyin_In-feed Ad > Xigua_In-feed Ad,292.36240030122786
+user_382,Douyin_In-feed Ad,382.40760306560986
+user_383,Douyin_Brand Ad > Xigua_Brand Ad,274.7402810460718
+user_384,Douyin_In-feed Ad,163.56326706774144
+user_385,Douyin_In-feed Ad > Toutiao_Video Ad > Douyin_In-feed Ad > Douyin_Video Ad,117.83796334918462
+user_386,Douyin_Brand Ad > Douyin_Splash Ad,199.81847993980244
+user_387,Douyin_Brand Ad > Douyin_In-feed Ad > Douyin_In-feed Ad > Douyin_Video Ad,118.6002345760262
+user_388,Xigua_In-feed Ad > Douyin_Splash Ad,264.4382410402826
+user_389,Douyin_Brand Ad > Douyin_Video Ad > Toutiao_Video Ad,324.0672733847368
+user_390,Douyin_Splash Ad > Douyin_Video Ad > Toutiao_In-feed Ad,492.51883619889867
+user_391,Douyin_Brand Ad > Douyin_Video Ad,235.30524213293936
+user_392,Xigua_Video Ad > Xigua_In-feed Ad > Douyin_Splash Ad,388.00321586524524
+user_393,Douyin_Brand Ad > Toutiao_In-feed Ad > Toutiao_In-feed Ad,190.96379834455158
+user_394,Toutiao_In-feed Ad > Toutiao_In-feed Ad > Toutiao_Splash Ad > Douyin_Splash Ad,293.8785148520188
+user_395,Douyin_Splash Ad,439.99014859226475
+user_396,Douyin_Video Ad > Douyin_In-feed Ad,399.71348507831055
+user_397,Douyin_Video Ad > Douyin_Brand Ad > Douyin_Video Ad > Toutiao_In-feed Ad,180.54551285438976
+user_398,Xigua_Splash Ad > Douyin_Splash Ad > Toutiao_Brand Ad,181.95250966028502
+user_399,Toutiao_Video Ad,448.23137001840274
+user_400,Xigua_Video Ad > Xigua_Splash Ad > Toutiao_Splash Ad,126.08183650419681
+user_401,Douyin_Video Ad > Toutiao_Video Ad,419.3376752897313
+user_402,Toutiao_In-feed Ad > Douyin_Brand Ad > Toutiao_Brand Ad,178.243709217806
+user_403,Toutiao_Video Ad > Douyin_In-feed Ad > Toutiao_In-feed Ad > Douyin_In-feed Ad,258.38818906498193
+user_404,Xigua_Splash Ad > Douyin_Video Ad > Toutiao_Splash Ad > Douyin_Brand Ad,245.24029465360417
+user_405,Douyin_Video Ad > Toutiao_Video Ad > Douyin_Video Ad,245.4772499024561
+user_406,Toutiao_Brand Ad > Douyin_Splash Ad > Toutiao_Splash Ad > Xigua_In-feed Ad,421.44141417661405
+user_407,Douyin_In-feed Ad > Douyin_Brand Ad,148.97355934357643
+user_408,Toutiao_Video Ad > Xigua_Splash Ad,270.9958751682461
+user_409,Douyin_In-feed Ad > Toutiao_In-feed Ad > Douyin_Video Ad,456.10322120712084
+user_410,Douyin_Brand Ad > Douyin_In-feed Ad,218.5959125133261
+user_411,Toutiao_Brand Ad > Toutiao_In-feed Ad,288.46715957312585
+user_412,Toutiao_In-feed Ad > Douyin_Splash Ad > Xigua_Video Ad,234.0832189483491
+user_413,Douyin_Video Ad > Xigua_Splash Ad,387.63097894154225
+user_414,Douyin_In-feed Ad > Toutiao_Splash Ad > Toutiao_In-feed Ad,274.20218175926374
+user_415,Douyin_In-feed Ad > Xigua_Splash Ad > Xigua_Brand Ad > Douyin_In-feed Ad,370.4710248301736
+user_416,Douyin_Video Ad > Douyin_Brand Ad,166.8528045884885
+user_417,Douyin_Video Ad > Douyin_Video Ad > Toutiao_Video Ad > Xigua_Brand Ad,222.1242706786925
+user_418,Douyin_In-feed Ad > Douyin_Splash Ad > Toutiao_Video Ad,448.4817929052208
+user_419,Xigua_Video Ad > Toutiao_Splash Ad > Toutiao_Splash Ad,368.2929247623336
+user_420,Douyin_Splash Ad > Douyin_Splash Ad > Douyin_In-feed Ad,318.6592880751154
+user_421,Douyin_Brand Ad > Douyin_Video Ad > Douyin_Video Ad,395.96164830677213
+user_422,Xigua_Splash Ad > Xigua_Brand Ad,489.11052915683433
+user_423,Toutiao_In-feed Ad > Xigua_In-feed Ad > Xigua_Brand Ad,323.6739227317306
+user_424,Xigua_Video Ad > Toutiao_Video Ad > Douyin_Splash Ad > Douyin_Video Ad,138.61378807817633
+user_425,Douyin_In-feed Ad > Douyin_In-feed Ad,429.8139232348129
+user_426,Douyin_Brand Ad,392.09845883605834
+user_427,Douyin_Video Ad,450.8957828648802
+user_428,Toutiao_Splash Ad > Douyin_Video Ad,174.1320718114858
+user_429,Toutiao_Splash Ad > Toutiao_Splash Ad > Douyin_Brand Ad,498.17500647652395
+user_430,Toutiao_In-feed Ad > Douyin_Video Ad,188.09012055092603
+user_431,Douyin_In-feed Ad > Toutiao_In-feed Ad > Toutiao_In-feed Ad > Douyin_Video Ad,328.70894081932886
+user_432,Toutiao_Video Ad,226.7786351164477
+user_433,Douyin_Brand Ad > Toutiao_Splash Ad > Douyin_Splash Ad > Toutiao_Brand Ad,278.0984449139153
+user_434,Toutiao_Video Ad,370.5705449353569
+user_435,Douyin_Splash Ad > Toutiao_Brand Ad > Toutiao_Splash Ad > Douyin_Brand Ad,397.4375664706239
+user_436,Douyin_Splash Ad,128.37288645350938
+user_437,Douyin_In-feed Ad,288.9973420026054
+user_438,Xigua_Brand Ad > Douyin_In-feed Ad,280.1861206631273
+user_439,Douyin_Video Ad,287.8975051962735
+user_440,Douyin_Video Ad > Toutiao_In-feed Ad > Douyin_Splash Ad > Douyin_Video Ad,114.68854500032846
+user_441,Douyin_Brand Ad > Xigua_In-feed Ad > Douyin_Splash Ad > Douyin_Splash Ad,211.12882911269378
+user_442,Douyin_In-feed Ad > Xigua_In-feed Ad > Douyin_Brand Ad > Toutiao_Brand Ad,297.41863213604745
+user_443,Douyin_Brand Ad > Douyin_Splash Ad > Douyin_Video Ad,268.73127141553255
+user_444,Xigua_In-feed Ad > Toutiao_Video Ad > Toutiao_In-feed Ad > Xigua_Brand Ad,481.61325103401623
+user_445,Douyin_Brand Ad,100.84153727035337
+user_446,Douyin_Brand Ad > Douyin_Video Ad,374.6359653970427
+user_447,Toutiao_In-feed Ad > Douyin_Splash Ad,136.9139168293029
+user_448,Douyin_Video Ad > Xigua_Video Ad > Douyin_Brand Ad,399.9403057745865
+user_449,Toutiao_In-feed Ad > Toutiao_Brand Ad,337.46431648341536
+user_450,Toutiao_Brand Ad > Xigua_In-feed Ad,161.72862611323177
+user_451,Toutiao_Brand Ad > Toutiao_In-feed Ad > Douyin_Video Ad,496.5052906934533
+user_452,Douyin_Splash Ad > Toutiao_Brand Ad,294.4001975190412
+user_453,Douyin_In-feed Ad,149.20131804949824
+user_454,Douyin_In-feed Ad,391.6693950197792
+user_455,Douyin_In-feed Ad,376.9971306676901
+user_456,Douyin_In-feed Ad > Douyin_In-feed Ad,444.69699796731817
+user_457,Douyin_Splash Ad > Douyin_Brand Ad,443.0249350645135
+user_458,Toutiao_Brand Ad > Douyin_Video Ad > Douyin_Brand Ad,340.42966672009317
+user_459,Douyin_Video Ad > Douyin_Video Ad > Douyin_Brand Ad > Douyin_Video Ad,404.76272805296617
+user_460,Douyin_In-feed Ad > Toutiao_Splash Ad > Toutiao_Brand Ad,254.34980115804638
+user_461,Douyin_In-feed Ad > Douyin_Video Ad > Toutiao_Splash Ad,436.68934469787047
+user_462,Xigua_In-feed Ad > Douyin_In-feed Ad > Douyin_In-feed Ad > Douyin_Video Ad,302.18204716418
+user_463,Douyin_Splash Ad > Douyin_Splash Ad > Xigua_Brand Ad,164.00997458527763
+user_464,Douyin_In-feed Ad > Douyin_Splash Ad,152.01911300445548
+user_465,Douyin_Splash Ad > Douyin_Brand Ad,455.3614689234725
+user_466,Xigua_In-feed Ad > Xigua_In-feed Ad > Toutiao_Splash Ad > Douyin_In-feed Ad,488.2968614708993
+user_467,Toutiao_In-feed Ad > Douyin_In-feed Ad,316.6819249640016
+user_468,Douyin_Brand Ad > Douyin_Splash Ad,430.7259895185676
+user_469,Douyin_In-feed Ad,302.97854644789686
+user_470,Douyin_Video Ad > Xigua_Video Ad > Douyin_Video Ad,333.193770465841
+user_471,Douyin_Brand Ad,426.70277204781127
+user_472,Douyin_In-feed Ad > Toutiao_Splash Ad > Toutiao_In-feed Ad > Toutiao_Brand Ad,180.5248431289733
+user_473,Douyin_In-feed Ad,290.21841499473067
+user_474,Xigua_Brand Ad > Xigua_In-feed Ad > Toutiao_Splash Ad > Toutiao_Video Ad,115.19262531594138
+user_475,Toutiao_Video Ad > Douyin_Video Ad,210.30702730054279
+user_476,Douyin_Splash Ad > Douyin_Brand Ad,305.16096645887905
+user_477,Douyin_Video Ad > Douyin_Brand Ad > Douyin_Splash Ad > Toutiao_Splash Ad,404.7192765510789
+user_478,Toutiao_Video Ad > Douyin_Splash Ad > Toutiao_In-feed Ad,492.29573743337176
+user_479,Douyin_Brand Ad > Toutiao_Video Ad,422.6357369305108
+user_480,Douyin_In-feed Ad > Douyin_In-feed Ad > Douyin_In-feed Ad,219.37396494475067
+user_481,Douyin_Splash Ad > Douyin_In-feed Ad > Toutiao_Splash Ad > Douyin_Brand Ad,107.64643777190561
+user_482,Xigua_Splash Ad > Toutiao_Splash Ad > Toutiao_Video Ad > Douyin_Video Ad,427.919121993891
+user_483,Douyin_Video Ad,311.43124388887884
+user_484,Douyin_Brand Ad > Douyin_Splash Ad,431.38771977964683
+user_485,Douyin_Brand Ad > Toutiao_In-feed Ad > Toutiao_Brand Ad,157.14011492033544
+user_486,Xigua_Video Ad > Toutiao_Brand Ad > Xigua_Brand Ad > Toutiao_Video Ad,259.64007522948924
+user_487,Douyin_Video Ad > Toutiao_Brand Ad,126.40393765609663
+user_488,Toutiao_Splash Ad > Xigua_In-feed Ad > Toutiao_In-feed Ad,482.0460829166806
+user_489,Xigua_Splash Ad > Douyin_Brand Ad > Xigua_Video Ad,382.83459090667924
+user_490,Douyin_Splash Ad > Douyin_Brand Ad > Douyin_Splash Ad > Douyin_Video Ad,217.0060364282967
+user_491,Douyin_Brand Ad > Douyin_Brand Ad > Douyin_In-feed Ad > Toutiao_Splash Ad,491.59244606992354
+user_492,Douyin_Brand Ad,359.12697839621137
+user_493,Douyin_Brand Ad > Toutiao_Splash Ad,281.57873924334285
+user_494,Toutiao_Video Ad > Toutiao_Splash Ad > Douyin_Video Ad > Douyin_In-feed Ad,421.5834030210081
+user_495,Toutiao_Video Ad > Douyin_Brand Ad,388.2620581132453
+user_496,Douyin_Splash Ad > Xigua_Video Ad > Toutiao_Brand Ad > Douyin_In-feed Ad,227.03471810444665
+user_497,Douyin_In-feed Ad > Douyin_Video Ad > Toutiao_In-feed Ad,125.07584864874634
+user_498,Douyin_Splash Ad > Douyin_In-feed Ad,133.0861846097414
+user_499,Douyin_In-feed Ad > Douyin_In-feed Ad > Xigua_Video Ad > Toutiao_Splash Ad,456.7488579242939
+user_500,Douyin_Splash Ad,250.92722158527715
+user_501,Toutiao_In-feed Ad > Toutiao_Splash Ad > Toutiao_Video Ad > Toutiao_Video Ad,370.3390985857346
+user_502,Douyin_In-feed Ad > Xigua_In-feed Ad > Xigua_Video Ad,151.8402604781768
+user_503,Toutiao_Splash Ad > Douyin_Video Ad > Toutiao_Video Ad > Xigua_In-feed Ad,244.02018636039134
+user_504,Douyin_Video Ad > Douyin_Brand Ad > Douyin_Video Ad > Douyin_Video Ad,101.15250066624584
+user_505,Toutiao_Splash Ad > Toutiao_Video Ad > Xigua_Video Ad,248.46464591429674
+user_506,Douyin_Video Ad > Toutiao_Video Ad,371.1252801240177
+user_507,Douyin_In-feed Ad,154.64036146046905
+user_508,Douyin_Brand Ad > Douyin_Video Ad > Douyin_Video Ad,385.28275331304707
+user_509,Toutiao_In-feed Ad > Douyin_Brand Ad,366.7466642203687
+user_510,Douyin_Splash Ad,317.5222911464949
+user_511,Xigua_Splash Ad > Douyin_Splash Ad > Douyin_Splash Ad,383.75318683495635
+user_512,Douyin_In-feed Ad > Toutiao_Splash Ad,312.37507136483754
+user_513,Douyin_In-feed Ad > Douyin_Video Ad,116.66272735307297
+user_514,Toutiao_Video Ad > Douyin_Video Ad,409.168592750446
+user_515,Douyin_Video Ad > Douyin_In-feed Ad > Douyin_Brand Ad > Xigua_Splash Ad,172.6956762837852
+user_516,Douyin_In-feed Ad > Douyin_Brand Ad > Toutiao_Video Ad,356.7439835421422
+user_517,Douyin_Brand Ad > Toutiao_In-feed Ad > Xigua_Brand Ad > Toutiao_Video Ad,459.4242418699357
+user_518,Toutiao_Video Ad,283.1983036014286
+user_519,Douyin_Video Ad > Douyin_In-feed Ad,474.9513752657283
+user_520,Douyin_Brand Ad > Douyin_Video Ad,123.13777977886424
+user_521,Xigua_Brand Ad > Toutiao_Video Ad,360.38293404722907
+user_522,Xigua_Video Ad > Toutiao_In-feed Ad > Douyin_Video Ad,347.8938285732357
+user_523,Toutiao_Splash Ad,226.0588156530213
+user_524,Douyin_In-feed Ad > Toutiao_Video Ad > Douyin_Video Ad,357.1275659200697
+user_525,Douyin_Video Ad,234.9360564068094
+user_526,Douyin_Brand Ad > Douyin_Splash Ad,124.88129046588111
+user_527,Xigua_Video Ad,352.36871609166536
+user_528,Douyin_In-feed Ad > Xigua_Brand Ad > Toutiao_Video Ad,300.241428461883
+user_529,Xigua_Splash Ad,209.8815260191568
+user_530,Toutiao_Splash Ad > Toutiao_In-feed Ad,283.439177405536
+user_531,Douyin_In-feed Ad > Douyin_In-feed Ad > Douyin_In-feed Ad,154.79962522146855
+user_532,Toutiao_Brand Ad > Douyin_Video Ad > Xigua_Video Ad,354.61545870134177
+user_533,Xigua_Video Ad > Xigua_Splash Ad > Toutiao_Brand Ad > Douyin_Splash Ad,337.42437415151437
+user_534,Douyin_Splash Ad > Xigua_Video Ad > Xigua_In-feed Ad,463.15951751184775
+user_535,Toutiao_Brand Ad > Toutiao_Splash Ad,486.82107257041395
+user_536,Douyin_Video Ad > Toutiao_Video Ad > Douyin_In-feed Ad > Douyin_In-feed Ad,165.07989752342635
+user_537,Toutiao_In-feed Ad > Douyin_In-feed Ad > Xigua_Video Ad > Douyin_Video Ad,320.7961208482884
+user_538,Toutiao_Video Ad > Xigua_Video Ad > Xigua_Video Ad,423.3101758223751
+user_539,Douyin_In-feed Ad > Douyin_Video Ad,364.97360468042723
+user_540,Xigua_Splash Ad > Douyin_Brand Ad,481.93879721538724
+user_541,Douyin_In-feed Ad,292.6197361103417
+user_542,Douyin_In-feed Ad > Douyin_Brand Ad > Xigua_Brand Ad,210.21917568779335
+user_543,Toutiao_Video Ad,254.52926923058635
+user_544,Douyin_Video Ad,438.90866708874375
+user_545,Douyin_In-feed Ad,489.74889547170307
+user_546,Toutiao_Brand Ad > Toutiao_In-feed Ad > Douyin_In-feed Ad,159.2711712919782
+user_547,Douyin_In-feed Ad > Douyin_Video Ad > Douyin_Brand Ad > Douyin_Video Ad,403.5105015029301
+user_548,Douyin_Brand Ad > Xigua_Brand Ad > Xigua_In-feed Ad,267.7791975829254
+user_549,Xigua_Video Ad > Douyin_Video Ad > Douyin_Video Ad > Douyin_Brand Ad,337.5209923238462
+user_550,Douyin_In-feed Ad > Douyin_Splash Ad,476.31380820124315
+user_551,Douyin_Brand Ad,424.3514324031674
+user_552,Douyin_Video Ad > Toutiao_Video Ad > Douyin_Video Ad > Douyin_In-feed Ad,285.3174613091187
+user_553,Douyin_Brand Ad,472.4039883541199
+user_554,Douyin_Splash Ad > Toutiao_In-feed Ad > Douyin_Splash Ad,244.87050191949132
+user_555,Xigua_Brand Ad,181.43135101854418
+user_556,Douyin_Brand Ad,453.0937522693688
+user_557,Toutiao_Video Ad > Douyin_Brand Ad,365.218876721369
+user_558,Douyin_In-feed Ad > Douyin_Splash Ad > Xigua_In-feed Ad,385.0485332394051
+user_559,Douyin_In-feed Ad > Douyin_Brand Ad > Xigua_Video Ad,493.94336110499034
+user_560,Toutiao_Splash Ad > Toutiao_In-feed Ad > Douyin_Brand Ad > Toutiao_Splash Ad,108.26854755676179
+user_561,Toutiao_In-feed Ad > Douyin_Video Ad,116.96891928275667
+user_562,Douyin_Video Ad,218.6239648823723
+user_563,Douyin_In-feed Ad,141.00638562658978
+user_564,Toutiao_Brand Ad,247.71230808621644
+user_565,Douyin_Splash Ad,378.8837527638547
+user_566,Douyin_Splash Ad > Xigua_Brand Ad > Douyin_In-feed Ad > Xigua_In-feed Ad,112.34316172322897
+user_567,Douyin_In-feed Ad,185.3573391902758
+user_568,Xigua_Brand Ad > Douyin_In-feed Ad > Toutiao_Brand Ad > Douyin_Video Ad,298.50350115294464
+user_569,Douyin_Video Ad > Toutiao_Video Ad > Xigua_In-feed Ad,110.07736558369174
+user_570,Douyin_Splash Ad > Toutiao_Splash Ad > Xigua_Brand Ad > Douyin_Brand Ad,300.43515210487885
+user_571,Toutiao_In-feed Ad > Toutiao_In-feed Ad,301.91823932181126
+user_572,Douyin_Video Ad > Douyin_Video Ad > Toutiao_Brand Ad,258.6214727959853
+user_573,Xigua_In-feed Ad > Douyin_Video Ad > Toutiao_Splash Ad,448.56561367634174
+user_574,Toutiao_Video Ad > Douyin_Video Ad > Xigua_Splash Ad,433.13215071530846
+user_575,Toutiao_Video Ad > Toutiao_Video Ad > Douyin_Video Ad,215.0530916174713
+user_576,Douyin_Video Ad > Toutiao_In-feed Ad > Douyin_Video Ad,261.81095422954786
+user_577,Douyin_In-feed Ad > Douyin_Video Ad,233.3850374384042
+user_578,Douyin_Splash Ad > Douyin_Brand Ad,477.77943307772136
+user_579,Toutiao_Brand Ad,352.9128614550559
+user_580,Toutiao_Video Ad > Toutiao_Video Ad,496.1447127993488
+user_581,Douyin_Splash Ad > Xigua_Video Ad > Douyin_In-feed Ad > Xigua_Splash Ad,488.27061816389767
+user_582,Xigua_In-feed Ad,395.15399393384246
+user_583,Toutiao_In-feed Ad > Douyin_Video Ad,129.6168871649392
+user_584,Douyin_In-feed Ad > Toutiao_Splash Ad > Douyin_Splash Ad,375.91153969924846
+user_585,Toutiao_Brand Ad > Douyin_Brand Ad,480.5692883382264
+user_586,Douyin_Video Ad > Toutiao_Video Ad > Douyin_Splash Ad,206.9608111430165
+user_587,Toutiao_Splash Ad > Douyin_Splash Ad,280.2745899755652
+user_588,Toutiao_In-feed Ad > Toutiao_Brand Ad > Toutiao_In-feed Ad > Douyin_Brand Ad,142.36232176150304
+user_589,Toutiao_Brand Ad > Toutiao_Video Ad,102.67285168955512
+user_590,Toutiao_Splash Ad > Douyin_In-feed Ad > Douyin_In-feed Ad > Douyin_Brand Ad,201.2406156718435
+user_591,Xigua_Splash Ad > Douyin_In-feed Ad > Toutiao_Video Ad > Toutiao_Video Ad,365.9978064951095
+user_592,Douyin_Splash Ad > Douyin_Video Ad,399.3537398704925
+user_593,Xigua_Brand Ad > Douyin_In-feed Ad > Toutiao_Brand Ad,103.6216646321484
+user_594,Douyin_Brand Ad > Toutiao_Splash Ad > Toutiao_In-feed Ad > Douyin_In-feed Ad,427.34782659253494
+user_595,Toutiao_Brand Ad > Douyin_In-feed Ad > Douyin_In-feed Ad,130.85806741583275
+user_596,Douyin_In-feed Ad > Douyin_Splash Ad,342.69268988697456
+user_597,Toutiao_Splash Ad > Xigua_Splash Ad > Xigua_Brand Ad,429.193522016707
+user_598,Douyin_Video Ad > Douyin_Splash Ad > Toutiao_Brand Ad,395.16695734161016
+user_599,Douyin_Splash Ad > Douyin_In-feed Ad,182.48696203365594
+user_600,Toutiao_In-feed Ad > Xigua_In-feed Ad > Xigua_In-feed Ad,114.00316592272226
+user_601,Douyin_In-feed Ad > Xigua_Brand Ad > Toutiao_Splash Ad,299.77270794673416
+user_602,Toutiao_In-feed Ad > Toutiao_Splash Ad,429.89729493880304
+user_603,Toutiao_Splash Ad > Douyin_Video Ad,336.0930636603571
+user_604,Douyin_Splash Ad > Douyin_Video Ad > Douyin_Brand Ad,385.1840031435223
+user_605,Toutiao_In-feed Ad > Xigua_In-feed Ad,164.18504570849058
+user_606,Toutiao_Video Ad,365.6877539955873
+user_607,Toutiao_Brand Ad > Toutiao_Brand Ad > Xigua_In-feed Ad,223.9227501289876
+user_608,Douyin_Splash Ad > Toutiao_In-feed Ad > Toutiao_Splash Ad > Xigua_In-feed Ad,431.2467316025371
+user_609,Xigua_Video Ad > Toutiao_Splash Ad,241.76997951722194
+user_610,Douyin_Video Ad > Xigua_In-feed Ad,461.42337737301216
+user_611,Toutiao_Brand Ad > Douyin_In-feed Ad,443.52670846726187
+user_612,Xigua_Video Ad > Xigua_Brand Ad,265.8064259267169
+user_613,Toutiao_In-feed Ad > Douyin_Brand Ad > Douyin_Splash Ad,253.9214468884413
+user_614,Douyin_In-feed Ad > Toutiao_In-feed Ad > Toutiao_Splash Ad > Toutiao_Splash Ad,164.54512042215347
+user_615,Douyin_Splash Ad,166.29927078608827
+user_616,Xigua_Splash Ad > Douyin_Video Ad,332.8575230311194
+user_617,Toutiao_Video Ad > Douyin_Brand Ad,123.09286369004688
+user_618,Douyin_Splash Ad > Douyin_Video Ad,328.7648815402403
+user_619,Toutiao_Brand Ad > Toutiao_In-feed Ad > Toutiao_Splash Ad,264.7458961669984
+user_620,Douyin_Splash Ad > Douyin_In-feed Ad,448.21078650775365
+user_621,Douyin_Brand Ad > Douyin_In-feed Ad,298.2815000927564
+user_622,Douyin_Video Ad,492.1742281081487
+user_623,Douyin_In-feed Ad,405.9203889837109
+user_624,Douyin_In-feed Ad > Xigua_In-feed Ad > Douyin_In-feed Ad,442.9235609443364
+user_625,Douyin_Brand Ad > Xigua_Brand Ad > Toutiao_Video Ad,452.6253819763028
+user_626,Toutiao_Video Ad > Toutiao_In-feed Ad,428.55534516027774
+user_627,Douyin_Video Ad > Douyin_In-feed Ad > Toutiao_In-feed Ad > Douyin_Splash Ad,261.827462561607
+user_628,Douyin_In-feed Ad > Douyin_In-feed Ad > Xigua_Brand Ad,212.3527860744975
+user_629,Douyin_Splash Ad > Douyin_Brand Ad,316.7043857070253
+user_630,Xigua_Video Ad > Toutiao_In-feed Ad > Douyin_In-feed Ad > Xigua_Brand Ad,192.61937438601953
+user_631,Toutiao_In-feed Ad,278.55475610527793
+user_632,Douyin_Video Ad > Toutiao_Brand Ad > Douyin_Brand Ad,247.7927736125521
+user_633,Toutiao_Brand Ad > Xigua_Splash Ad > Douyin_Splash Ad,436.9302018999736
+user_634,Douyin_Video Ad,138.14864090922345
+user_635,Toutiao_In-feed Ad > Toutiao_In-feed Ad > Toutiao_In-feed Ad > Toutiao_Splash Ad,421.20082878313485
+user_636,Toutiao_Brand Ad > Toutiao_Video Ad,385.29434723333475
+user_637,Douyin_In-feed Ad > Douyin_Splash Ad > Toutiao_In-feed Ad,203.292407866464
+user_638,Toutiao_Video Ad > Toutiao_Splash Ad > Toutiao_Splash Ad,403.30691682242366
+user_639,Douyin_In-feed Ad > Toutiao_Video Ad > Douyin_Brand Ad > Douyin_In-feed Ad,185.96505481455833
+user_640,Xigua_Splash Ad > Toutiao_Brand Ad,323.1709780602803
+user_641,Toutiao_Video Ad > Douyin_Brand Ad,363.8043074563081
+user_642,Douyin_Splash Ad > Toutiao_Brand Ad > Toutiao_Brand Ad > Toutiao_In-feed Ad,311.4897676393743
+user_643,Douyin_Splash Ad > Douyin_Brand Ad > Toutiao_Splash Ad > Douyin_In-feed Ad,425.9758914162157
+user_644,Douyin_Brand Ad > Douyin_Video Ad > Toutiao_Video Ad > Douyin_Video Ad,186.89235458120433
+user_645,Douyin_Splash Ad,266.0963889336162
+user_646,Douyin_In-feed Ad > Toutiao_Splash Ad > Toutiao_Splash Ad > Douyin_Splash Ad,455.24727557361433
+user_647,Toutiao_Brand Ad > Xigua_Splash Ad > Douyin_Video Ad > Douyin_Splash Ad,382.73514231221645
+user_648,Douyin_Video Ad > Xigua_In-feed Ad,399.27356481953854
+user_649,Toutiao_Brand Ad > Xigua_Brand Ad > Toutiao_Video Ad > Douyin_In-feed Ad,484.4637662840661
+user_650,Douyin_Brand Ad > Douyin_Splash Ad > Douyin_Video Ad,224.87854728704147
+user_651,Douyin_Splash Ad > Xigua_In-feed Ad,404.92104980038397
+user_652,Douyin_Video Ad > Toutiao_Brand Ad > Xigua_In-feed Ad > Xigua_Splash Ad,256.23744303271286
+user_653,Xigua_Brand Ad > Toutiao_Splash Ad > Toutiao_Brand Ad > Toutiao_Video Ad,338.74075075510376
+user_654,Douyin_Splash Ad > Douyin_In-feed Ad > Toutiao_In-feed Ad > Xigua_Video Ad,297.65906825515304
+user_655,Xigua_Video Ad > Xigua_Splash Ad,121.33919879555907
+user_656,Xigua_Brand Ad > Toutiao_Splash Ad > Douyin_Brand Ad,166.9428128947124
+user_657,Douyin_Brand Ad,378.8543223567237
+user_658,Douyin_Splash Ad,162.48262747464878
+user_659,Xigua_In-feed Ad > Douyin_Video Ad > Douyin_Splash Ad > Toutiao_In-feed Ad,479.4977580598844
+user_660,Douyin_Video Ad > Douyin_Brand Ad,379.85582784884866
+user_661,Douyin_Video Ad > Xigua_Brand Ad > Toutiao_Splash Ad > Douyin_In-feed Ad,333.7999182123161
+user_662,Douyin_Video Ad,131.42313236949087
+user_663,Toutiao_Video Ad > Toutiao_Video Ad > Douyin_Video Ad,192.3178615706127
+user_664,Toutiao_Video Ad,198.51440752421263
+user_665,Toutiao_Brand Ad > Toutiao_Brand Ad,454.43737412528327
+user_666,Douyin_Brand Ad > Douyin_Brand Ad > Douyin_Brand Ad > Douyin_Splash Ad,376.48472375461614
+user_667,Xigua_Video Ad > Xigua_In-feed Ad > Douyin_Video Ad,239.0028329700724
+user_668,Xigua_In-feed Ad,367.7234436647517
+user_669,Xigua_Brand Ad > Toutiao_Splash Ad,128.41395561760086
+user_670,Douyin_Brand Ad > Douyin_Splash Ad > Xigua_Video Ad > Douyin_In-feed Ad,311.95250443541045
+user_671,Toutiao_Video Ad,145.77260744494342
+user_672,Douyin_Video Ad > Douyin_Video Ad > Douyin_Splash Ad > Douyin_Splash Ad,202.5852244067064
+user_673,Douyin_In-feed Ad,125.02593688778063
+user_674,Douyin_Video Ad,158.7687694335083
+user_675,Douyin_Video Ad > Douyin_Brand Ad > Douyin_Brand Ad > Douyin_Video Ad,346.8875223511603
+user_676,Douyin_Splash Ad > Toutiao_Video Ad,157.63151440527983
+user_677,Douyin_Video Ad > Douyin_In-feed Ad > Douyin_Brand Ad,222.58538721712813
+user_678,Toutiao_In-feed Ad,267.44290996733196
+user_679,Douyin_In-feed Ad,329.7150300360844
+user_680,Xigua_In-feed Ad > Xigua_Brand Ad > Douyin_Brand Ad,436.04323137567997
+user_681,Toutiao_Video Ad,248.58690504975073
+user_682,Toutiao_In-feed Ad > Toutiao_Brand Ad > Toutiao_Splash Ad,435.29216843272025
+user_683,Douyin_Video Ad > Douyin_Brand Ad > Toutiao_Brand Ad,404.97878346994736
+user_684,Xigua_In-feed Ad > Xigua_In-feed Ad,304.0593521825293
+user_685,Toutiao_Splash Ad,447.842432989911
+user_686,Douyin_Brand Ad > Xigua_In-feed Ad,364.6669038516756
+user_687,Douyin_Video Ad > Douyin_Splash Ad,441.7043155989343
+user_688,Douyin_Splash Ad > Xigua_Video Ad > Xigua_Video Ad,323.5063778497591
+user_689,Douyin_Splash Ad > Douyin_Splash Ad,246.95629147882818
+user_690,Douyin_Brand Ad > Xigua_Brand Ad > Douyin_Video Ad,369.10584576498667
+user_691,Douyin_In-feed Ad,449.6287093220741
+user_692,Toutiao_Video Ad > Douyin_Brand Ad > Toutiao_In-feed Ad,350.9315740362712
+user_693,Douyin_Video Ad,283.32943783503015
+user_694,Douyin_Video Ad > Douyin_Splash Ad > Xigua_Brand Ad,216.58436539751756
+user_695,Xigua_Brand Ad > Xigua_Brand Ad > Douyin_Video Ad > Toutiao_Video Ad,346.1014613129656
+user_696,Douyin_In-feed Ad > Toutiao_In-feed Ad,407.7795576328188
+user_697,Toutiao_Splash Ad,168.28334532499207
+user_698,Toutiao_Video Ad,236.16462244570386
+user_699,Douyin_Brand Ad > Xigua_Splash Ad > Toutiao_In-feed Ad > Douyin_Video Ad,211.38829157102091
+user_700,Douyin_Splash Ad,498.5593174716222
+user_701,Douyin_Splash Ad > Douyin_Video Ad > Douyin_In-feed Ad > Toutiao_In-feed Ad,343.3278000031087
+user_702,Xigua_Video Ad > Douyin_Video Ad > Douyin_Brand Ad > Toutiao_Brand Ad,360.60627333155696
+user_703,Douyin_In-feed Ad,442.59736110502945
+user_704,Xigua_Splash Ad > Douyin_Splash Ad > Douyin_Video Ad > Douyin_Video Ad,410.0976207339797
+user_705,Douyin_Video Ad > Douyin_Brand Ad > Douyin_Video Ad,473.2820351037225
+user_706,Toutiao_Splash Ad > Toutiao_Splash Ad > Douyin_Splash Ad > Xigua_Brand Ad,302.53212374170715
+user_707,Douyin_Brand Ad > Douyin_In-feed Ad,104.11379837427681
+user_708,Toutiao_Video Ad > Toutiao_Splash Ad > Toutiao_Video Ad > Douyin_Video Ad,225.26528073191082
+user_709,Douyin_Splash Ad > Xigua_In-feed Ad > Xigua_Video Ad > Xigua_Splash Ad,471.4522248461576
+user_710,Douyin_Brand Ad > Douyin_Video Ad > Douyin_Brand Ad > Xigua_In-feed Ad,465.2930721685825
+user_711,Douyin_Splash Ad > Douyin_In-feed Ad > Toutiao_Video Ad,209.2162477311227
+user_712,Xigua_In-feed Ad > Douyin_Brand Ad > Douyin_Brand Ad,284.95647076501626
+user_713,Toutiao_Splash Ad,386.84822738887743
+user_714,Xigua_Video Ad > Toutiao_Video Ad > Douyin_Brand Ad,142.82287142167442
+user_715,Douyin_Splash Ad > Xigua_In-feed Ad,271.9830479119287
+user_716,Xigua_In-feed Ad,393.97033895795767
+user_717,Douyin_In-feed Ad,297.1278338131298
+user_718,Douyin_Brand Ad > Douyin_In-feed Ad,333.4420148032399
+user_719,Toutiao_In-feed Ad > Douyin_Video Ad,393.20004288904926
+user_720,Toutiao_In-feed Ad > Xigua_Splash Ad > Toutiao_Video Ad > Xigua_Splash Ad,324.23192360041946
+user_721,Douyin_Brand Ad > Douyin_Video Ad > Douyin_In-feed Ad > Douyin_In-feed Ad,147.48363820364457
+user_722,Toutiao_In-feed Ad,126.89367203622446
+user_723,Toutiao_Video Ad > Douyin_Splash Ad > Xigua_Video Ad > Douyin_Splash Ad,415.7969193696209
+user_724,Douyin_In-feed Ad > Douyin_Video Ad > Xigua_In-feed Ad > Douyin_Splash Ad,272.49354791662313
+user_725,Douyin_Brand Ad > Douyin_Video Ad > Toutiao_Splash Ad,190.60865041444228
+user_726,Toutiao_In-feed Ad > Toutiao_Splash Ad > Xigua_Brand Ad,428.2784643067117
+user_727,Xigua_Video Ad > Douyin_Brand Ad,120.71435549312675
+user_728,Douyin_In-feed Ad > Xigua_Video Ad,292.85283956793677
+user_729,Toutiao_Splash Ad > Douyin_In-feed Ad,330.58897502310157
+user_730,Douyin_In-feed Ad,210.30296177651252
+user_731,Xigua_Splash Ad > Toutiao_Splash Ad > Toutiao_In-feed Ad > Toutiao_Brand Ad,290.23847672880333
+user_732,Douyin_Brand Ad > Toutiao_Splash Ad > Douyin_In-feed Ad > Toutiao_In-feed Ad,189.59301834603247
+user_733,Douyin_Brand Ad > Toutiao_Brand Ad > Toutiao_In-feed Ad > Toutiao_Video Ad,320.2653517763406
+user_734,Xigua_Video Ad > Xigua_In-feed Ad > Douyin_Brand Ad > Douyin_In-feed Ad,277.6460985985329
+user_735,Douyin_Splash Ad > Toutiao_In-feed Ad > Douyin_Brand Ad > Douyin_Video Ad,162.72508212672227
+user_736,Xigua_Video Ad > Douyin_Video Ad > Toutiao_Splash Ad > Toutiao_Splash Ad,227.07787901886488
+user_737,Toutiao_In-feed Ad > Douyin_Splash Ad > Xigua_Video Ad,285.84526752358835
+user_738,Toutiao_In-feed Ad > Douyin_Splash Ad > Toutiao_Splash Ad,117.22096108626742
+user_739,Douyin_Video Ad,277.56153292796466
+user_740,Douyin_In-feed Ad > Douyin_Video Ad,437.8663636360897
+user_741,Douyin_In-feed Ad > Xigua_Video Ad,273.508226407207
+user_742,Douyin_Video Ad > Douyin_Splash Ad > Toutiao_Video Ad,453.74206018230143
+user_743,Douyin_Brand Ad > Toutiao_Video Ad > Xigua_Video Ad,193.5587725888814
+user_744,Douyin_Splash Ad > Xigua_Brand Ad > Xigua_Video Ad,252.90090079098334
+user_745,Douyin_Brand Ad > Toutiao_In-feed Ad > Toutiao_Brand Ad,283.86032786382896
+user_746,Douyin_In-feed Ad > Douyin_Splash Ad,349.10136129593644
+user_747,Douyin_Video Ad > Toutiao_Splash Ad > Toutiao_Splash Ad,168.37456096833932
+user_748,Douyin_Splash Ad > Xigua_In-feed Ad > Toutiao_Splash Ad > Douyin_In-feed Ad,120.9565182379445
+user_749,Toutiao_Splash Ad > Douyin_Brand Ad > Douyin_In-feed Ad,479.30061511603174
+user_750,Douyin_Video Ad > Douyin_Splash Ad > Xigua_Splash Ad,470.76653853244323
+user_751,Douyin_In-feed Ad > Douyin_Brand Ad > Douyin_Splash Ad,478.7024140694813
+user_752,Toutiao_Brand Ad,199.14934349136945
+user_753,Toutiao_In-feed Ad > Toutiao_Splash Ad,317.6794650014809
+user_754,Toutiao_Brand Ad > Douyin_Brand Ad > Douyin_Brand Ad,319.9474251104821
+user_755,Douyin_In-feed Ad > Xigua_In-feed Ad > Douyin_In-feed Ad > Douyin_In-feed Ad,135.03651896237855
+user_756,Douyin_Video Ad > Douyin_Brand Ad,448.27538218297576
+user_757,Douyin_Splash Ad > Toutiao_In-feed Ad,448.2535525933962
+user_758,Douyin_Brand Ad,293.7564742403397
+user_759,Toutiao_Brand Ad > Douyin_In-feed Ad > Xigua_Brand Ad,464.3210683879253
+user_760,Douyin_Splash Ad,238.62350392661904
+user_761,Douyin_Video Ad > Douyin_Splash Ad,113.86908169042655
+user_762,Douyin_Splash Ad,177.37413718259302
+user_763,Xigua_Video Ad > Xigua_Video Ad,224.7647622146821
+user_764,Douyin_Brand Ad,359.24201381364935
+user_765,Toutiao_In-feed Ad > Douyin_Video Ad > Xigua_Splash Ad > Douyin_Brand Ad,395.1803789590369
+user_766,Douyin_Video Ad,208.25757679270626
+user_767,Douyin_In-feed Ad > Douyin_Brand Ad,146.91205912017801
+user_768,Toutiao_Video Ad > Toutiao_In-feed Ad,446.4406181511339
+user_769,Xigua_Video Ad > Toutiao_Video Ad > Douyin_Splash Ad,232.11386700083375
+user_770,Toutiao_Video Ad,180.61135120252513
+user_771,Douyin_Video Ad,429.3092850720121
+user_772,Douyin_Brand Ad > Douyin_Splash Ad > Douyin_In-feed Ad,455.965350545145
+user_773,Douyin_Brand Ad > Douyin_Splash Ad > Toutiao_Splash Ad > Xigua_Video Ad,124.40285720215796
+user_774,Xigua_Brand Ad > Xigua_Brand Ad > Douyin_Splash Ad,455.83064733219686
+user_775,Toutiao_Video Ad > Douyin_Splash Ad,271.6249477210664
+user_776,Douyin_Video Ad > Douyin_Video Ad,477.2247589627886
+user_777,Toutiao_In-feed Ad,360.8941412529763
+user_778,Douyin_Video Ad > Douyin_In-feed Ad > Xigua_Brand Ad,145.3763268415667
+user_779,Douyin_Splash Ad > Toutiao_Video Ad > Douyin_Video Ad > Douyin_Splash Ad,132.63948800193535
+user_780,Xigua_Brand Ad > Toutiao_In-feed Ad,369.1388533954179
+user_781,Douyin_Brand Ad > Toutiao_In-feed Ad > Xigua_In-feed Ad > Xigua_In-feed Ad,330.75248052448336
+user_782,Douyin_In-feed Ad,127.75763436167335
+user_783,Xigua_Video Ad > Douyin_Video Ad,445.2036184268908
+user_784,Douyin_Video Ad > Xigua_Splash Ad,310.18812294235727
+user_785,Xigua_Video Ad > Toutiao_In-feed Ad > Xigua_Video Ad > Xigua_Brand Ad,201.4542222056153
+user_786,Douyin_Brand Ad,469.7148283178645
+user_787,Toutiao_Splash Ad,276.9466132409675
+user_788,Toutiao_Video Ad > Xigua_Brand Ad,322.6313714008613
+user_789,Douyin_Brand Ad > Douyin_In-feed Ad > Douyin_Video Ad,359.91521870571984
+user_790,Xigua_Brand Ad,391.5756800420629
+user_791,Douyin_Brand Ad > Douyin_Brand Ad > Douyin_Video Ad,201.7925326473041
+user_792,Douyin_Video Ad > Xigua_Brand Ad,429.4425683192758
+user_793,Toutiao_Splash Ad,424.90324839613675
+user_794,Douyin_In-feed Ad > Xigua_Brand Ad > Douyin_Brand Ad,292.01895092403424
+user_795,Douyin_Brand Ad > Xigua_Splash Ad > Douyin_In-feed Ad > Douyin_Video Ad,498.22756019627514
+user_796,Douyin_Brand Ad > Douyin_Brand Ad,227.32163787693892
+user_797,Toutiao_Splash Ad > Toutiao_Video Ad,153.2839696546515
+user_798,Toutiao_In-feed Ad > Toutiao_Video Ad > Toutiao_Video Ad,401.3888442638387
+user_799,Douyin_Brand Ad > Toutiao_In-feed Ad > Toutiao_In-feed Ad > Douyin_Splash Ad,223.01191819618253
+user_800,Toutiao_Splash Ad > Douyin_Video Ad > Douyin_Splash Ad,309.4254318119423
+user_801,Douyin_Brand Ad > Douyin_In-feed Ad > Douyin_Brand Ad,432.9668733641011
+user_802,Toutiao_Brand Ad > Douyin_Brand Ad > Toutiao_Brand Ad,473.01783574098033
+user_803,Douyin_Video Ad > Douyin_Video Ad,223.10836211725965
+user_804,Douyin_Brand Ad > Xigua_Brand Ad,154.2753271169117
+user_805,Douyin_Brand Ad > Xigua_Video Ad > Douyin_Splash Ad,408.17888842959593
+user_806,Douyin_In-feed Ad > Toutiao_In-feed Ad > Douyin_In-feed Ad > Xigua_In-feed Ad,380.84298164551706
+user_807,Xigua_Video Ad,258.37489047837994
+user_808,Toutiao_Splash Ad,264.9118911326662
+user_809,Toutiao_In-feed Ad > Douyin_Video Ad,331.89246645367683
+user_810,Douyin_Splash Ad,286.6912375071802
+user_811,Toutiao_Splash Ad,124.44186704785292
+user_812,Xigua_Video Ad > Douyin_Video Ad > Douyin_Brand Ad > Douyin_In-feed Ad,265.9302622085408
+user_813,Toutiao_In-feed Ad > Douyin_Video Ad,258.77918917371716
+user_814,Xigua_Splash Ad > Toutiao_In-feed Ad > Xigua_In-feed Ad > Douyin_In-feed Ad,340.7226935781789
+user_815,Douyin_Brand Ad,235.23376374650456
+user_816,Douyin_Video Ad,165.06432604219407
+user_817,Toutiao_Splash Ad,123.42612211381353
+user_818,Douyin_Splash Ad,448.7652245122022
+user_819,Douyin_Video Ad > Xigua_Splash Ad > Toutiao_Brand Ad,326.3402241252987
+user_820,Douyin_Video Ad > Douyin_Video Ad,323.34092602564544
+user_821,Douyin_Video Ad > Toutiao_Brand Ad > Xigua_Splash Ad,287.96614881343817
+user_822,Xigua_Splash Ad,226.00414895069264
+user_823,Toutiao_Splash Ad > Douyin_Splash Ad,210.82769988535986
+user_824,Toutiao_Brand Ad > Xigua_Brand Ad > Douyin_Splash Ad,388.82642568151414
+user_825,Xigua_Brand Ad > Toutiao_Brand Ad > Xigua_Splash Ad > Toutiao_In-feed Ad,159.65633037589498
+user_826,Xigua_Brand Ad > Douyin_Splash Ad > Douyin_Brand Ad > Douyin_Brand Ad,152.8718631015487
+user_827,Toutiao_Brand Ad > Douyin_Splash Ad > Douyin_Brand Ad,460.9613104442699
+user_828,Toutiao_Splash Ad > Douyin_Brand Ad > Douyin_Brand Ad > Xigua_Splash Ad,205.7887266668763
+user_829,Toutiao_Splash Ad > Douyin_Brand Ad,352.58351703320824
+user_830,Douyin_In-feed Ad,265.6564272862665
+user_831,Xigua_Brand Ad > Toutiao_Video Ad > Douyin_In-feed Ad > Toutiao_In-feed Ad,427.84382122631996
+user_832,Toutiao_Splash Ad,213.34562755644728
+user_833,Douyin_Brand Ad > Douyin_Brand Ad > Douyin_Brand Ad,157.18435104030087
+user_834,Douyin_Brand Ad > Toutiao_Video Ad,259.1173763716393
+user_835,Xigua_Brand Ad,253.1136401612162
+user_836,Douyin_Brand Ad > Toutiao_In-feed Ad > Douyin_Video Ad,329.54633987083855
+user_837,Xigua_In-feed Ad,323.1494702640293
+user_838,Douyin_Brand Ad,139.20307391229642
+user_839,Xigua_Splash Ad > Toutiao_In-feed Ad,280.47727658028947
+user_840,Xigua_Splash Ad > Douyin_In-feed Ad,130.87501209058718
+user_841,Xigua_Video Ad > Douyin_Video Ad > Toutiao_Video Ad > Douyin_Brand Ad,376.2905260453052
+user_842,Xigua_Splash Ad,471.22070009153924
+user_843,Toutiao_Splash Ad > Toutiao_Brand Ad > Toutiao_Brand Ad,232.4585956656599
+user_844,Douyin_Video Ad > Toutiao_Video Ad > Douyin_Splash Ad > Xigua_Video Ad,482.6881735557399
+user_845,Toutiao_Video Ad > Douyin_Splash Ad > Douyin_In-feed Ad > Douyin_Splash Ad,347.01164602492463
+user_846,Toutiao_Brand Ad > Douyin_Brand Ad,468.9737134624498
+user_847,Douyin_Brand Ad > Douyin_Brand Ad > Xigua_Brand Ad,196.2682059028612
+user_848,Xigua_In-feed Ad > Douyin_In-feed Ad,352.2869777967717
+user_849,Xigua_Brand Ad > Douyin_Brand Ad > Douyin_Brand Ad,209.06025892499386
+user_850,Toutiao_Brand Ad > Toutiao_Video Ad > Xigua_In-feed Ad > Xigua_Brand Ad,155.99495068870516
+user_851,Douyin_Splash Ad > Douyin_Brand Ad > Toutiao_Splash Ad,154.08692548514188
+user_852,Toutiao_In-feed Ad > Douyin_Video Ad > Toutiao_Splash Ad > Xigua_Video Ad,151.02806982854835
+user_853,Douyin_Brand Ad,221.13195559149688
+user_854,Douyin_Brand Ad > Toutiao_In-feed Ad > Toutiao_Brand Ad,197.52077508407183
+user_855,Douyin_Brand Ad,226.00420287336985
+user_856,Douyin_Brand Ad > Xigua_Brand Ad > Douyin_Splash Ad > Douyin_Brand Ad,204.4649730043441
+user_857,Toutiao_In-feed Ad,418.49744378255485
+user_858,Toutiao_In-feed Ad > Douyin_Brand Ad,226.92219096819463
+user_859,Douyin_In-feed Ad > Toutiao_Splash Ad,215.2738103838118
+user_860,Douyin_Brand Ad > Douyin_Splash Ad,136.5235210178681
+user_861,Toutiao_Video Ad > Douyin_In-feed Ad > Douyin_Video Ad,112.37235255742641
+user_862,Toutiao_In-feed Ad > Douyin_Brand Ad > Xigua_Video Ad > Douyin_In-feed Ad,444.66595387964037
+user_863,Toutiao_Video Ad > Toutiao_Brand Ad > Xigua_In-feed Ad,399.9439725153075
+user_864,Douyin_Splash Ad > Douyin_Splash Ad > Douyin_Video Ad,198.74281103829315
+user_865,Douyin_In-feed Ad > Toutiao_Splash Ad,126.9507486087703
+user_866,Douyin_Brand Ad,389.22865441986755
+user_867,Toutiao_Video Ad > Toutiao_Video Ad,260.12513446919763
+user_868,Toutiao_Video Ad,359.75152809464896
+user_869,Douyin_Splash Ad,473.1011756241253
+user_870,Douyin_In-feed Ad > Xigua_Brand Ad > Toutiao_Brand Ad > Toutiao_Splash Ad,426.4316169373405
+user_871,Xigua_Splash Ad > Douyin_In-feed Ad > Xigua_Video Ad > Douyin_Video Ad,458.95428698548596
+user_872,Douyin_In-feed Ad,155.2501172560989
+user_873,Douyin_In-feed Ad,369.9572812216619
+user_874,Xigua_In-feed Ad > Toutiao_Splash Ad,372.1917850097496
+user_875,Douyin_Video Ad > Xigua_In-feed Ad > Xigua_Splash Ad > Douyin_In-feed Ad,406.3434575538968
+user_876,Douyin_Video Ad,257.4221344425262
+user_877,Douyin_In-feed Ad,391.7239201908825
+user_878,Toutiao_Brand Ad > Toutiao_Splash Ad > Douyin_Brand Ad,358.08743033786556
+user_879,Toutiao_Splash Ad > Douyin_Brand Ad > Toutiao_Splash Ad > Toutiao_Video Ad,430.08454850385243
+user_880,Toutiao_Brand Ad > Toutiao_Splash Ad > Douyin_Splash Ad,356.6274266739978
+user_881,Douyin_In-feed Ad > Xigua_Splash Ad,143.6054462563715
+user_882,Douyin_Video Ad > Xigua_Splash Ad > Toutiao_In-feed Ad > Xigua_Brand Ad,414.0334628959028
+user_883,Douyin_Video Ad > Douyin_Splash Ad > Toutiao_In-feed Ad > Douyin_Splash Ad,358.29001734042146
+user_884,Douyin_Splash Ad > Douyin_Brand Ad,170.8508576793016
+user_885,Douyin_Splash Ad,133.70215096718852
+user_886,Toutiao_Splash Ad > Xigua_Brand Ad,478.29988089037204
+user_887,Toutiao_Brand Ad > Douyin_In-feed Ad > Toutiao_Video Ad > Toutiao_Video Ad,349.9918993504141
+user_888,Douyin_Video Ad > Xigua_In-feed Ad > Douyin_Splash Ad,135.26086325465778
+user_889,Douyin_Brand Ad > Toutiao_In-feed Ad > Douyin_Video Ad,331.1311886045743
+user_890,Toutiao_Brand Ad > Toutiao_Video Ad > Xigua_Video Ad,473.5463771384995
+user_891,Xigua_Brand Ad > Toutiao_In-feed Ad > Douyin_In-feed Ad,221.6967455308783
+user_892,Douyin_Splash Ad > Douyin_Splash Ad > Douyin_Splash Ad > Douyin_Splash Ad,352.5503910573506
+user_893,Toutiao_Splash Ad > Xigua_In-feed Ad > Douyin_Video Ad > Douyin_Video Ad,498.18966093872575
+user_894,Toutiao_In-feed Ad > Douyin_Brand Ad > Douyin_In-feed Ad > Douyin_Splash Ad,276.2659533697174
+user_895,Douyin_Video Ad,303.1031352754275
+user_896,Douyin_Brand Ad > Douyin_In-feed Ad,280.5066456292458
+user_897,Toutiao_In-feed Ad,287.19218499121735
+user_898,Toutiao_Brand Ad,458.02264159993325
+user_899,Toutiao_In-feed Ad > Douyin_Video Ad,202.65888287443832
+user_900,Xigua_Brand Ad > Douyin_Splash Ad,224.62869583289157
+user_901,Douyin_Video Ad,100.65750284497987
+user_902,Douyin_Video Ad > Douyin_Splash Ad > Douyin_In-feed Ad,321.5293762534902
+user_903,Xigua_Splash Ad > Xigua_In-feed Ad,148.14543048399443
+user_904,Xigua_Brand Ad > Xigua_In-feed Ad,382.2250846598764
+user_905,Toutiao_Splash Ad > Douyin_Brand Ad > Toutiao_Video Ad > Douyin_Brand Ad,114.23609232259055
+user_906,Douyin_Splash Ad > Douyin_Splash Ad,209.8026694028313
+user_907,Douyin_Splash Ad,280.8809916414155
+user_908,Douyin_Brand Ad,426.02884027032275
+user_909,Xigua_Brand Ad,368.63509717557037
+user_910,Toutiao_Splash Ad > Douyin_Brand Ad,293.2928303501741
+user_911,Toutiao_Splash Ad > Douyin_In-feed Ad,454.601010656761
+user_912,Xigua_Brand Ad,206.83000298253296
+user_913,Douyin_Brand Ad > Douyin_Splash Ad,193.90176868998853
+user_914,Douyin_Video Ad > Xigua_Splash Ad > Xigua_Splash Ad,196.46608572310478
+user_915,Toutiao_Brand Ad > Douyin_Brand Ad > Douyin_Video Ad > Douyin_Splash Ad,275.45900009842194
+user_916,Xigua_In-feed Ad > Toutiao_Splash Ad > Douyin_Brand Ad,235.72913426228445
+user_917,Douyin_In-feed Ad > Douyin_Brand Ad,165.71473730896372
+user_918,Xigua_Brand Ad > Toutiao_Brand Ad,230.5128606275786
+user_919,Xigua_In-feed Ad > Douyin_In-feed Ad,317.85234844285435
+user_920,Douyin_In-feed Ad,198.78446679675702
+user_921,Douyin_Brand Ad,441.5771528567411
+user_922,Douyin_Video Ad > Toutiao_Splash Ad > Toutiao_In-feed Ad > Xigua_Brand Ad,492.3175221658339
+user_923,Douyin_Brand Ad,451.36634521798464
+user_924,Douyin_Splash Ad,278.18117189371515
+user_925,Toutiao_Splash Ad > Douyin_In-feed Ad > Toutiao_Splash Ad > Toutiao_In-feed Ad,358.2137425642089
+user_926,Douyin_Splash Ad > Douyin_Splash Ad,188.2035148546592
+user_927,Douyin_Splash Ad,183.95905183449227
+user_928,Xigua_Splash Ad > Toutiao_Video Ad > Douyin_Video Ad,146.3292328947177
+user_929,Douyin_Brand Ad,431.660256113656
+user_930,Xigua_Brand Ad > Douyin_In-feed Ad > Douyin_Brand Ad > Toutiao_In-feed Ad,158.408407718785
+user_931,Toutiao_Brand Ad,454.98757608515297
+user_932,Toutiao_Brand Ad > Douyin_In-feed Ad > Toutiao_Video Ad > Toutiao_Brand Ad,347.66721769722335
+user_933,Toutiao_Video Ad > Toutiao_Video Ad,152.9074860393927
+user_934,Xigua_Brand Ad > Douyin_Video Ad,473.18265021129093
+user_935,Toutiao_Brand Ad > Toutiao_Video Ad > Douyin_Splash Ad > Douyin_Splash Ad,172.0634590930477
+user_936,Toutiao_In-feed Ad > Douyin_Brand Ad > Douyin_Video Ad > Toutiao_In-feed Ad,441.4618195764448
+user_937,Toutiao_Brand Ad,134.82848223092327
+user_938,Douyin_Video Ad,182.82283335321316
+user_939,Douyin_In-feed Ad,439.5695477904291
+user_940,Douyin_Splash Ad > Xigua_Video Ad > Xigua_In-feed Ad > Toutiao_Splash Ad,182.3177507957687
+user_941,Douyin_Splash Ad > Xigua_Video Ad > Douyin_In-feed Ad,178.18320014735997
+user_942,Douyin_In-feed Ad > Douyin_In-feed Ad > Xigua_In-feed Ad > Douyin_Splash Ad,300.80327909567285
+user_943,Toutiao_Brand Ad > Douyin_In-feed Ad > Douyin_Brand Ad > Douyin_Brand Ad,397.56207492086077
+user_944,Douyin_Splash Ad > Douyin_Video Ad > Toutiao_Video Ad > Douyin_Splash Ad,466.8882367299451
+user_945,Toutiao_In-feed Ad > Douyin_Video Ad > Douyin_Brand Ad,418.52026536605285
+user_946,Douyin_Video Ad > Toutiao_Splash Ad,349.28414922720276
+user_947,Toutiao_Video Ad > Xigua_Splash Ad,278.3822180368407
+user_948,Douyin_Video Ad,254.98658552870265
+user_949,Toutiao_Video Ad > Toutiao_Video Ad > Douyin_In-feed Ad > Douyin_Splash Ad,181.62575541864024
+user_950,Douyin_In-feed Ad > Douyin_Brand Ad > Douyin_Video Ad,386.05000792675514
+user_951,Toutiao_Video Ad > Douyin_Video Ad > Xigua_In-feed Ad,382.9115647622669
+user_952,Toutiao_Video Ad > Douyin_Video Ad > Douyin_Video Ad > Douyin_In-feed Ad,243.18447781310587
+user_953,Toutiao_Splash Ad,155.347280355276
+user_954,Douyin_Brand Ad > Xigua_Brand Ad,392.50023573895004
+user_955,Xigua_Splash Ad > Toutiao_Splash Ad,474.68982234139605
+user_956,Douyin_Video Ad > Douyin_Splash Ad,231.1371351543273
+user_957,Toutiao_In-feed Ad > Douyin_Brand Ad > Toutiao_Brand Ad,236.00175442395687
+user_958,Xigua_In-feed Ad > Toutiao_Brand Ad > Toutiao_Brand Ad,272.13861294888017
+user_959,Toutiao_In-feed Ad > Toutiao_Brand Ad,156.21885119821718
+user_960,Douyin_In-feed Ad > Toutiao_In-feed Ad,323.89786453347
+user_961,Xigua_In-feed Ad > Douyin_Splash Ad > Douyin_Splash Ad > Xigua_Video Ad,137.08592432410796
+user_962,Douyin_Splash Ad > Douyin_Brand Ad,221.11005130878686
+user_963,Douyin_Brand Ad > Toutiao_In-feed Ad > Toutiao_In-feed Ad,346.87769084678666
+user_964,Toutiao_Brand Ad > Xigua_In-feed Ad > Toutiao_Splash Ad > Douyin_Brand Ad,294.88480276876555
+user_965,Toutiao_In-feed Ad,263.155843402912
+user_966,Douyin_In-feed Ad > Toutiao_In-feed Ad,422.0697589441507
+user_967,Toutiao_Splash Ad > Douyin_Splash Ad > Xigua_Splash Ad > Douyin_In-feed Ad,154.73806663454272
+user_968,Xigua_Video Ad > Douyin_In-feed Ad,231.1535976073034
+user_969,Xigua_In-feed Ad > Douyin_Video Ad,440.8849564806696
+user_970,Douyin_In-feed Ad > Toutiao_Splash Ad,294.0071950096165
+user_971,Toutiao_In-feed Ad > Toutiao_In-feed Ad,212.54024874153666
+user_972,Douyin_Brand Ad > Toutiao_Video Ad > Douyin_Video Ad,438.26693963950856
+user_973,Douyin_Splash Ad > Xigua_Splash Ad,124.77860743159516
+user_974,Douyin_Brand Ad > Douyin_Video Ad,269.9814076249722
+user_975,Douyin_Video Ad > Toutiao_In-feed Ad > Xigua_Splash Ad,140.22509283337774
+user_976,Douyin_Brand Ad,444.319574766198
+user_977,Toutiao_Splash Ad,240.07947240928763
+user_978,Douyin_Video Ad > Douyin_Brand Ad > Toutiao_Brand Ad > Xigua_Splash Ad,446.02843975015753
+user_979,Douyin_In-feed Ad > Douyin_Brand Ad > Toutiao_Splash Ad,292.806935910773
+user_980,Douyin_Video Ad > Douyin_Video Ad > Douyin_In-feed Ad,294.25371936533617
+user_981,Toutiao_Splash Ad,318.56282968485283
+user_982,Douyin_Brand Ad,440.81936632187717
+user_983,Douyin_Brand Ad > Douyin_Brand Ad > Toutiao_Splash Ad,250.79446691473666
+user_984,Toutiao_Brand Ad > Toutiao_Splash Ad,440.38075976272
+user_985,Douyin_Video Ad > Toutiao_In-feed Ad > Douyin_In-feed Ad > Toutiao_Brand Ad,459.699567315681
+user_986,Douyin_Splash Ad,223.87668444207566
+user_987,Douyin_Brand Ad > Toutiao_Video Ad,219.20274287750217
+user_988,Douyin_In-feed Ad > Douyin_Video Ad > Douyin_Splash Ad,477.68353533844305
+user_989,Douyin_Video Ad > Douyin_In-feed Ad > Xigua_Video Ad,182.40227142081596
+user_990,Douyin_In-feed Ad > Xigua_Video Ad > Toutiao_In-feed Ad,227.16186950931342
+user_991,Douyin_In-feed Ad > Douyin_In-feed Ad > Douyin_Video Ad > Douyin_Video Ad,255.18910175915454
+user_992,Douyin_Splash Ad > Xigua_In-feed Ad > Douyin_In-feed Ad > Toutiao_Splash Ad,139.6918384378587
+user_993,Douyin_In-feed Ad > Douyin_In-feed Ad,406.1265198101545
+user_994,Xigua_Brand Ad > Toutiao_Splash Ad > Douyin_In-feed Ad > Douyin_Brand Ad,181.395197822125
+user_995,Xigua_Splash Ad > Douyin_Video Ad,490.64705492600365
+user_996,Douyin_In-feed Ad > Douyin_In-feed Ad > Xigua_Brand Ad > Xigua_Brand Ad,361.43470801776795
+user_997,Toutiao_Video Ad > Douyin_Brand Ad,277.8294004277714
+user_998,Douyin_Video Ad > Douyin_In-feed Ad > Douyin_In-feed Ad,167.20802087707142
+user_999,Douyin_Brand Ad > Douyin_Brand Ad,330.88642920358006
